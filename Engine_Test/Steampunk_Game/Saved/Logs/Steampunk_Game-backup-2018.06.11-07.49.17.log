@@ -1,0 +1,1050 @@
+﻿Log file open, 06/10/18 11:06:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Steampunk_Game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-143422099) SRandInit(-143422099).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.417265
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.935s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Leonard-PC (192.168.0.19:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.014s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.10-09.06.13:316][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-09.06.13:316][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.10-09.06.13:366][  0]LogInit: Computer: LEONARD-PC
+[2018.06.10-09.06.13:366][  0]LogInit: User: Leonard
+[2018.06.10-09.06.13:366][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.10-09.06.13:366][  0]LogInit: High frequency timer resolution =3.117373 MHz
+[2018.06.10-09.06.13:366][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.10-09.06.13:366][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.10-09.06.13:366][  0]LogMemory: Process Physical Memory: 274.73 MB used, 274.73 MB peak
+[2018.06.10-09.06.13:366][  0]LogMemory: Process Virtual Memory: 279.36 MB used, 279.36 MB peak
+[2018.06.10-09.06.13:366][  0]LogMemory: Physical Memory: 4491.20 MB used,  11823.68 MB free, 16314.88 MB total
+[2018.06.10-09.06.13:366][  0]LogMemory: Virtual Memory: 638.32 MB used,  11823.68 MB free, 8388608.00 MB total
+[2018.06.10-09.06.13:558][  0]LogInit: Using OS detected language (de-DE).
+[2018.06.10-09.06.13:558][  0]LogInit: Using OS detected locale (de-DE).
+[2018.06.10-09.06.13:748][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.06.10-09.06.14:452][  0]LogStreaming: Display: Took  0.894s to EndInitTextLocalization.
+[2018.06.10-09.06.14:452][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.10-09.06.14:452][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.10-09.06.14:452][  0]LogInit: Setting process to DPI aware
+[2018.06.10-09.06.14:586][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.10-09.06.14:587][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.10-09.06.14:587][  0]LogInit: Setting process to DPI aware
+[2018.06.10-09.06.14:769][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.10-09.06.14:769][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.10-09.06.15:417][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.10-09.06.15:444][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.06.10-09.06.15:444][  0]LogD3D11RHI:       6036/0/7901 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.10-09.06.15:444][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.10-09.06.15:449][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.10-09.06.15:449][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.10-09.06.15:449][  0]LogWindows: EnumDisplayDevices:
+[2018.06.10-09.06.15:449][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.06.10-09.06.15:449][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.10-09.06.15:449][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.10-09.06.15:449][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.10-09.06.15:449][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.06.10-09.06.15:449][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.06.10-09.06.15:449][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.06.10-09.06.15:450][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.06.10-09.06.15:450][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.06.10-09.06.15:450][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.06.10-09.06.15:450][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.06.10-09.06.15:450][  0]LogRHI: Texture pool is 4225 MB (70% of 6036 MB)
+[2018.06.10-09.06.15:464][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-09.06.15:464][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.10-09.06.15:464][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.10-09.06.15:490][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.10-09.06.15:538][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Intermediate/Shaders/WorkingDirectory/6448/).
+[2018.06.10-09.06.15:539][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leonard/AppData/Local/Temp/UnrealShaderWorkingDir/BA7C32C845C7D6CD10E596BCA39D80BD/'.
+[2018.06.10-09.06.16:234][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.10-09.06.16:248][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.10-09.06.16:262][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.10-09.06.16:275][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.10-09.06.16:303][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.10-09.06.16:316][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.10-09.06.16:329][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.10-09.06.16:343][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.10-09.06.16:349][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.10-09.06.16:361][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.10-09.06.16:373][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.10-09.06.16:385][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.10-09.06.16:397][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.10-09.06.16:410][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.10-09.06.16:422][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.10-09.06.16:449][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.10-09.06.16:449][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.10-09.06.16:465][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.10-09.06.16:466][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.10-09.06.16:538][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.10-09.06.16:550][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.10-09.06.16:563][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.10-09.06.16:576][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.10-09.06.16:588][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.10-09.06.16:601][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.10-09.06.16:601][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.10-09.06.17:033][  0]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-09.06.17:034][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.10-09.06.17:034][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.10-09.06.17:034][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.10-09.06.18:033][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.10-09.06.18:353][  0]LogDerivedDataCache: Loaded boot cache 0.32s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-09.06.18:353][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.10-09.06.18:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.10-09.06.18:355][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.10-09.06.18:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.10-09.06.18:355][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.10-09.06.18:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.10-09.06.18:423][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leonard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.10-09.06.18:423][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.10-09.06.18:423][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.10-09.06.18:434][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.10-09.06.18:434][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.10-09.06.18:473][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-09.06.18:473][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.10-09.06.20:674][  0]LogAssetRegistry: FAssetRegistry took 0.0243 seconds to start up
+[2018.06.10-09.06.21:475][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.10-09.06.22:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.10-09.06.22:573][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.10-09.06.22:573][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.10-09.06.22:573][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.10-09.06.22:573][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.10-09.06.22:573][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.10-09.06.22:696][  0]LogNetVersion: Steampunk_Game , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2220472046)
+[2018.06.10-09.06.25:181][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.052758 seconds
+[2018.06.10-09.06.25:186][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.10-09.06.25:186][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.10-09.06.25:186][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.10-09.06.34:328][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.10-09.06.34:356][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.10-09.06.34:879][  0]SourceControl: Source control is disabled
+[2018.06.10-09.06.36:038][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.10-09.06.36:190][  0]LogOcInput: OculusInput pre-init called
+[2018.06.10-09.06.36:435][  0]LogEngine: Initializing Engine...
+[2018.06.10-09.06.36:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.10-09.06.36:476][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-09.06.36:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-09.06.37:111][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.10-09.06.37:120][  0]LogInit: XAudio2 using 'Lautsprecher (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.06.10-09.06.37:125][  0]LogInit: FAudioDevice initialized.
+[2018.06.10-09.06.37:202][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.10-09.06.37:212][  0]LogInit: Texture streaming: Enabled
+[2018.06.10-09.06.37:271][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.10-09.06.37:319][  0]LogInit: Transaction tracking system initialized
+[2018.06.10-09.06.37:439][  0]BlueprintLog: New page: Editor Load
+[2018.06.10-09.06.37:853][  0]LocalizationService: Localization service is disabled
+[2018.06.10-09.06.38:252][  0]LogConsoleResponse: Display: 
+[2018.06.10-09.06.39:796][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.10-09.06.39:796][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.10-09.06.39:835][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' took 0.05s
+[2018.06.10-09.06.39:835][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.10-09.06.39:835][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.10-09.06.39:836][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.10-09.06.42:016][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.10-09.06.42:016][  0]LightingResults: New page: Lighting Build
+[2018.06.10-09.06.42:058][  0]MapCheck: New page: Map Check
+[2018.06.10-09.06.42:058][  0]LightingResults: New page: Lighting Build
+[2018.06.10-09.06.43:248][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.10-09.06.43:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.10-09.06.43:307][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.10-09.06.43:332][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 25,246ms to complete.
+[2018.06.10-09.06.43:332][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.316
+[2018.06.10-09.06.43:709][  0]LogCollectionManager: Loaded 0 collections in 0.016123 seconds
+[2018.06.10-09.06.43:836][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' took 0.01s
+[2018.06.10-09.06.43:836][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' took 0.01s
+[2018.06.10-09.06.43:836][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' took 0.01s
+[2018.06.10-09.06.43:836][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.10-09.06.43:846][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2018.06.10-09.06.43:919][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.10-09.06.44:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.10-09.06.44:657][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.10-09.06.44:842][  0]LogSlate: Took 0.007806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.10-09.06.44:863][  0]LogSlate: Took 0.018673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.10-09.06.44:877][  0]LogSlate: Took 0.009471 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.10-09.06.45:116][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-09.06.45:520][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.10-09.06.45:520][  0]LogLoad: (Engine Initialization) Total time: 42.16 seconds
+[2018.06.10-09.06.45:520][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.10-09.06.45:552][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.10-09.06.45:649][  1]LogAssetRegistry: Asset discovery search completed in 24.9939 seconds
+[2018.06.10-09.06.45:651][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.10-09.06.45:651][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.06.10-09.06.49:636][361]LogSlate: Took 0.012623 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-09.11.22:393][747]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.10-09.11.23:486][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.10-09.11.26:083][ 50]AssetReimport: New page: Outstanding source content changes 13:11:26
+[2018.06.10-09.11.26:121][ 51]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.png)
+[2018.06.10-09.11.26:273][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/SkillBorder" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset" SILENT=true
+[2018.06.10-09.11.26:288][ 52]LogSavePackage: Save=13.79ms
+[2018.06.10-09.11.26:288][ 52]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/SkillBorderA8AAAF084CE8471444E18AA6D583284C.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset'
+[2018.06.10-09.11.26:289][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset
+[2018.06.10-09.11.29:040][222]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.10-09.11.29:477][230]AssetReimport: Importing new asset /Game/Game/Materials/SkillBorder.
+[2018.06.10-09.11.36:237][949]LogTexture: Display: Building textures: SkillBorder (BGRA8, 100X100)
+[2018.06.10-09.11.46:928][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/SkillBorder" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset" SILENT=true
+[2018.06.10-09.11.46:983][ 21]LogSavePackage: Save=24.22ms
+[2018.06.10-09.11.46:983][ 21]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/SkillBorderDDAC9974478BF190BB08399BE625B349.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset'
+[2018.06.10-09.11.46:983][ 21]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset
+[2018.06.10-09.11.48:749][170]LogSlate: Window 'SkillBorder' being destroyed
+[2018.06.10-09.12.33:082][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Textures/SkillBorder" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/SkillBorder.uasset" SILENT=true
+[2018.06.10-09.12.33:084][526]LogSavePackage: Save=1.48ms
+[2018.06.10-09.12.33:084][526]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/SkillBorder787D783D40A4B2A4C19BD3B651BDB3BD.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/SkillBorder.uasset'
+[2018.06.10-09.12.33:084][526]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/SkillBorder.uasset
+[2018.06.10-09.12.33:450][526]SourceControl: rm 'Engine_Test/Steampunk_Game/Content/Game/Materials/SkillBorder.uasset'
+[2018.06.10-09.12.39:041][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Textures/ProgressBarDef" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarDef.uasset" SILENT=true
+[2018.06.10-09.12.39:043][ 88]LogSavePackage: Save=1.65ms
+[2018.06.10-09.12.39:043][ 88]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ProgressBarDefE7BDA69A46FE5623B77E69BC5D10918D.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarDef.uasset'
+[2018.06.10-09.12.39:043][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarDef.uasset
+[2018.06.10-09.12.39:145][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/ProgressBarDef" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarDef.uasset" SILENT=true
+[2018.06.10-09.12.39:149][ 88]LogSavePackage: Save=0.52ms
+[2018.06.10-09.12.39:149][ 88]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ProgressBarDef4F98750B4F7BBC3988D757BC2B290001.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarDef.uasset'
+[2018.06.10-09.12.39:150][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarDef.uasset
+[2018.06.10-09.12.42:069][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Textures/ProgressBarFill" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarFill.uasset" SILENT=true
+[2018.06.10-09.12.42:072][350]LogSavePackage: Save=2.10ms
+[2018.06.10-09.12.42:072][350]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ProgressBarFill7C928BD147983ADF7D0FA080DE698575.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarFill.uasset'
+[2018.06.10-09.12.42:072][350]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Textures/ProgressBarFill.uasset
+[2018.06.10-09.12.42:174][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game/Materials/ProgressBarFill" FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarFill.uasset" SILENT=true
+[2018.06.10-09.12.42:188][350]LogSavePackage: Save=9.53ms
+[2018.06.10-09.12.42:188][350]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ProgressBarFill5826D1504B15ED801EFB4CA00AEC67B2.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarFill.uasset'
+[2018.06.10-09.12.42:188][350]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarFill.uasset
+[2018.06.10-09.12.43:458][460]LogSavePackage: Save=85.83ms
+[2018.06.10-09.12.43:458][460]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMapE59C012E49FBBB9F74CDD696F1FE042A.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.12.43:460][460]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.12.43:712][460]LogSavePackage: Save=178.40ms
+[2018.06.10-09.12.43:712][460]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData8F085F2644F10DDDF330318775C42016.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.12.43:713][460]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.12.44:271][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.10-09.12.44:284][501]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.10-09.12.44:284][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.10-09.12.44:305][501]PIE: New page: PIE session: ThirdPersonExampleMap (10.06.2018 13:12:44)
+[2018.06.10-09.12.44:306][501]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.10-09.12.44:321][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015167s)
+[2018.06.10-09.12.44:322][501]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.10-09.12.44:322][501]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2018.06.10-09.12.44:322][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016271s)
+[2018.06.10-09.12.44:338][501]LogInit: XAudio2 using 'Lautsprecher (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.06.10-09.12.44:341][501]LogInit: FAudioDevice initialized.
+[2018.06.10-09.12.44:545][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006b00a5c0, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-09.12.44:556][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006b00a5c0, Size=64
+[2018.06.10-09.12.44:556][501]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000034fe4100, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-09.12.44:563][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000002a409d50, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.10-09.12.44:585][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006a373370, Size=16, Default__W_StatusBar_C Function /Game/Game/HUD/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.10-09.12.44:587][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006a373370, Size=16
+[2018.06.10-09.12.44:587][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006a373370, Size=16, Default__W_StatusBar_C Function /Engine/Transient.REINST_W_StatusBar_C_0:ExecuteUbergraph_W_StatusBar
+[2018.06.10-09.12.44:588][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006a373330, Size=16, Default__W_StatusBar_C Function /Game/Game/HUD/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.10-09.12.44:897][501]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000048886800, Size=664, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.10-09.12.44:925][501]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000048886800, Size=664
+[2018.06.10-09.12.44:925][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006a3d2b00, Size=664, Default__Main_Character_C Function /Engine/Transient.REINST_Main_Character_C_12:ExecuteUbergraph_Main_Character
+[2018.06.10-09.12.44:947][501]LogUObjectGlobals: Created PersistentFrame Addr=0x000000006a4f2e00, Size=664, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.10-09.12.45:132][501]LogSkeletalMesh: Skeletal Mesh found in DDC [24.438206ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.10-09.12.45:219][501]LogLoad: Game class is 'Game_Gamemode_C'
+[2018.06.10-09.12.45:231][501]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.10-11.12.45
+[2018.06.10-09.12.45:231][501]LogWorld: Bringing up level for play took: 0.000986
+[2018.06.10-09.12.45:245][501]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.06.10-09.12.45:252][501]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,56
+[2018.06.10-09.12.45:253][501]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.10-09.12.45:273][501]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.06.10-09.13.09:680][414]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.10-09.13.09:691][414]LogSlate: Window 'Steampunk_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.10-09.13.09:720][414]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.10-09.13.09:734][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006a373370, Size=16
+[2018.06.10-09.13.09:734][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000034fe4100, Size=64
+[2018.06.10-09.13.09:734][414]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006a3d2b00, Size=664
+[2018.06.10-09.16.02:363][257]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.10-09.16.49:520][353]LogSavePackage: Save=77.06ms
+[2018.06.10-09.16.49:520][353]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMapD204E5914C88EC44806D62A703E5535D.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.16.49:521][353]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.16.49:722][353]LogSavePackage: Save=120.27ms
+[2018.06.10-09.16.49:722][353]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltDataFD9B42AB4063D8D82DD5C990998CD769.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.16.49:722][353]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.17.36:016][154]LogSavePackage: Save=0.60ms
+[2018.06.10-09.17.36:016][154]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_TargetTypes9BD0E5F6418B17632451CFBEC2CDBE66.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset'
+[2018.06.10-09.17.36:017][154]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset
+[2018.06.10-09.18.22:692][322]LogSavePackage: Save=8.55ms
+[2018.06.10-09.18.22:692][322]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_TargetTypes897875DB44ECE09FF02294A978B77126.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset'
+[2018.06.10-09.18.22:692][322]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset
+[2018.06.10-09.18.48:429][614]LogSavePackage: Save=0.88ms
+[2018.06.10-09.18.48:429][614]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_TargetTypesE367D61E448A5B0E0E972DBCDA0BDC2B.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset'
+[2018.06.10-09.18.48:430][614]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset
+[2018.06.10-09.18.49:298][688]LogSlate: Window 'E_TargetTypes' being destroyed
+[2018.06.10-09.20.13:050][933]LogSavePackage: Save=0.74ms
+[2018.06.10-09.20.13:050][933]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_TargetTypes16C8456E94D3E547ED0600490DF7B7A9F.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes1.uasset'
+[2018.06.10-09.20.13:050][933]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes1.uasset
+[2018.06.10-09.20.23:091][985]LogSavePackage: Save=0.76ms
+[2018.06.10-09.20.23:091][985]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_DamageTypes756BDFD04BA05C901C008D898B8105F3.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset'
+[2018.06.10-09.20.23:092][985]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset
+[2018.06.10-09.20.23:353][985]SourceControl: rm 'Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes1.uasset'
+[2018.06.10-09.20.58:351][519]LogSavePackage: Save=0.74ms
+[2018.06.10-09.20.58:351][519]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_DamageTypes27072A914DD062370D1823807C3AA31F.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset'
+[2018.06.10-09.20.58:351][519]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset
+[2018.06.10-09.21.30:456][713]LogSavePackage: Save=0.76ms
+[2018.06.10-09.21.30:456][713]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_DamageTypes75A3023C4BE3E67B7E7578A3115745B4.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset'
+[2018.06.10-09.21.30:457][713]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset
+[2018.06.10-09.21.31:120][773]LogSlate: Window 'E_DamageTypes' being destroyed
+[2018.06.10-09.22.46:735][906]LogSavePackage: Save=0.81ms
+[2018.06.10-09.22.46:735][906]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_EfectivnissCE8CE02749F6B86AD43D32A17B6F7C77.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Efectivniss.uasset'
+[2018.06.10-09.22.46:736][906]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Efectivniss.uasset
+[2018.06.10-09.22.47:336][947]LogSlate: Window 'E_Efectivniss' being destroyed
+[2018.06.10-09.23.01:521][314]LogMetaData: Removing '/Game/Game/Blueprints/Enums/E_Effectivniss.E_Effectivniss' ref from Metadata '/Game/Game/Blueprints/Enums/E_Efectivniss.PackageMetaData'
+[2018.06.10-09.23.01:533][314]LogSavePackage: Save=0.67ms
+[2018.06.10-09.23.01:534][314]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_EffectivnissC7CC97574E1AF91964C42786909D48F1.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivniss.uasset'
+[2018.06.10-09.23.01:534][314]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivniss.uasset
+[2018.06.10-09.23.01:832][314]SourceControl: rm 'Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Efectivniss.uasset'
+[2018.06.10-09.23.17:785][ 93]LogMetaData: Removing '/Game/Game/Blueprints/Enums/E_Effectivnis.E_Effectivnis' ref from Metadata '/Game/Game/Blueprints/Enums/E_Effectivniss.PackageMetaData'
+[2018.06.10-09.23.17:796][ 93]LogSavePackage: Save=0.70ms
+[2018.06.10-09.23.17:796][ 93]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/E_EffectivnisE47EC4194687C453365C878A97DB127B.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivnis.uasset'
+[2018.06.10-09.23.17:797][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivnis.uasset
+[2018.06.10-09.23.18:055][ 93]SourceControl: rm 'Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivniss.uasset'
+[2018.06.10-09.23.20:158][280]LogSavePackage: Save=78.41ms
+[2018.06.10-09.23.20:159][280]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap6589DFC3435FE752B9A0CCB333056AE8.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.23.20:160][280]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.23.20:359][280]LogSavePackage: Save=117.04ms
+[2018.06.10-09.23.20:359][280]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData68F734FF4E467342BF91A9998589D0F8.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.23.20:360][280]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.23.45:234][657]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.06.10-09.24.47:445][120]LogSavePackage: Save=75.37ms
+[2018.06.10-09.24.47:445][120]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap1AFCE9114B4C321FF1099A9C541AD4D5.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.24.47:446][120]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.24.47:669][120]LogSavePackage: Save=120.63ms
+[2018.06.10-09.24.47:669][120]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData1DD8F7064ECC3C1260A114BC1EDF65CF.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.24.47:670][120]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.25.04:478][ 33]LogSlate: Took 0.012605 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.06.10-09.25.23:695][246]LogSavePackage: Save=1.06ms
+[2018.06.10-09.25.23:695][246]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_ElementInfo7C7B18564DE86722431AAF9C5DD1EA86.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset'
+[2018.06.10-09.25.23:695][246]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-09.25.57:549][721]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.10-09.26.44:611][921]LogSavePackage: Save=15.80ms
+[2018.06.10-09.26.44:612][921]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_ElementInfo3C223DB841108E61398F49BE047D900E.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset'
+[2018.06.10-09.26.44:612][921]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-09.26.44:878][942]LogSavePackage: Save=1.34ms
+[2018.06.10-09.26.44:878][942]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_ElementInfoE2B2D95D45A49B50FFF98D83AE998CA1.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset'
+[2018.06.10-09.26.44:878][942]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-09.26.45:561][  7]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-09.26.59:734][871]LogSavePackage: Save=1.35ms
+[2018.06.10-09.26.59:734][871]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_ElementInfoD4081F334055B8E2942143894EA72B17.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset'
+[2018.06.10-09.26.59:735][871]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-09.27.39:568][461]LogSavePackage: Save=1.53ms
+[2018.06.10-09.27.39:568][461]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_ElementInfo7FDC173642F0C7C02D8D90BE9E7F5C88.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset'
+[2018.06.10-09.27.39:568][461]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-09.27.40:326][519]LogSlate: Window 'S_ElementInfo' being destroyed
+[2018.06.10-09.27.55:949][190]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.06.10-09.27.56:325][190]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007728a4d8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.10-09.27.56:326][190]LogUObjectGlobals: Created PersistentFrame Addr=0x000000007728a4d0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.10-09.28.25:145][131]LogSavePackage: Save=4.20ms
+[2018.06.10-09.28.25:145][131]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_Element28A9AF7B441662519273FD9DD9F158E0.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Master_Element.uasset'
+[2018.06.10-09.28.25:146][131]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Master_Element.uasset
+[2018.06.10-09.28.25:624][156]BlueprintLog: New page: Compile Master_Element
+[2018.06.10-09.28.44:213][545]LogSlate: Window 'Master_Element' being destroyed
+[2018.06.10-09.28.44:217][545]LogSlate: Window 'Master_Element' being destroyed
+[2018.06.10-09.29.10:929][586]LogSavePackage: Save=112.71ms
+[2018.06.10-09.29.10:929][586]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap3A1DED6349F6DA42522493ACC6F23B22.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.29.10:931][586]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.29.11:134][586]LogSavePackage: Save=119.93ms
+[2018.06.10-09.29.11:134][586]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData680CF423436A4B5F58CED7B489B79A76.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.29.11:135][586]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.29.57:912][284]LogSavePackage: Save=5.81ms
+[2018.06.10-09.29.57:912][284]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_LightC83BEADE46FFD99F1B4E119979548DB9.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Light.uasset'
+[2018.06.10-09.29.57:913][284]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Light.uasset
+[2018.06.10-09.30.08:825][525]LogSavePackage: Save=5.86ms
+[2018.06.10-09.30.08:825][525]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Test708A2EEA487D396F6BE78498FF066F7C.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset'
+[2018.06.10-09.30.08:825][525]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset
+[2018.06.10-09.30.12:198][874]LogSavePackage: Save=101.38ms
+[2018.06.10-09.30.12:198][874]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap46915E564319C91BF6AF5EBAC65A8A5B.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.30.12:200][874]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.30.12:403][874]LogSavePackage: Save=120.90ms
+[2018.06.10-09.30.12:403][874]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData23883E2B4FE58E403ACF979DD920B1DA.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.30.12:404][874]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.30.31:205][227]LogSavePackage: Save=101.90ms
+[2018.06.10-09.30.31:205][227]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMapE7B70CDB4DEB02968FA5D8B44FAD036F.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.10-09.30.31:206][227]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.10-09.30.31:406][227]LogSavePackage: Save=119.53ms
+[2018.06.10-09.30.31:406][227]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltData587D2D194AD49D2B6F9460919FD2E39C.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.10-09.30.31:407][227]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.10-09.30.34:658][505]LogSavePackage: Save=5.29ms
+[2018.06.10-09.30.34:658][505]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Test69ED504840CFE2B14F83649BCEE51656.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset'
+[2018.06.10-09.30.34:659][505]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset
+[2018.06.10-09.30.35:701][575]LogSavePackage: Save=6.52ms
+[2018.06.10-09.30.35:701][575]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Shadow09D323BA4C52A372C291CA8A1ABFD421.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset'
+[2018.06.10-09.30.35:701][575]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset
+[2018.06.10-09.30.59:021][194]LogSavePackage: Save=6.37ms
+[2018.06.10-09.30.59:021][194]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Shadow5EFCBCD443928540C1A6F1B3559CE996.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset'
+[2018.06.10-09.30.59:022][194]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset
+[2018.06.10-09.30.59:932][268]BlueprintLog: New page: Compile Element_Shadow
+[2018.06.10-09.31.42:422][559]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.10-09.40.31:139][965]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.026
+[2018.06.10-09.40.31:140][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Blueprints/Skills/Master_Skill] ([1] browsable assets)...
+[2018.06.10-09.40.31:141][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/Skills/Master_Skill]
+[2018.06.10-09.40.31:156][965]LogSavePackage: Save=4.39ms
+[2018.06.10-09.40.31:156][965]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_Skill_Auto1206531614DFC4BFC0D80349EBDA126D3.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Skills/Master_Skill_Auto1.uasset'
+[2018.06.10-09.40.31:157][965]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Skills/Master_Skill_Auto1.uasset
+[2018.06.10-09.40.31:157][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Blueprints/Elements/Element_Shadow] ([1] browsable assets)...
+[2018.06.10-09.40.31:157][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/Elements/Element_Shadow]
+[2018.06.10-09.40.31:168][965]LogSavePackage: Save=6.21ms
+[2018.06.10-09.40.31:168][965]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Shadow_Auto1F22C356F46FBCE61F0FC4897473834A3.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Elements/Element_Shadow_Auto1.uasset'
+[2018.06.10-09.40.31:168][965]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Elements/Element_Shadow_Auto1.uasset
+[2018.06.10-09.40.31:168][965]LogFileHelpers: Auto-saving content packages took 0.028
+[2018.06.10-09.44.02:547][136]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-09.44.12:901][ 65]BlueprintLog: New page: Compile Element_Shadow
+[2018.06.10-09.44.13:485][ 88]LogSavePackage: Save=6.34ms
+[2018.06.10-09.44.13:486][ 88]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Shadow10FE98C94785E0B1A587FFB012D23C9F.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset'
+[2018.06.10-09.44.13:486][ 88]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset
+[2018.06.10-09.44.45:669][769]BlueprintLog: New page: Compile Element_Shadow
+[2018.06.10-09.44.47:884][887]LogSavePackage: Save=6.07ms
+[2018.06.10-09.44.47:884][887]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_Shadow19785D434ABAF894C7040CA0D419F061.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset'
+[2018.06.10-09.44.47:885][887]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset
+[2018.06.10-09.44.48:695][948]LogSlate: Window 'Element_Shadow' being destroyed
+[2018.06.10-09.45.29:135][256]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.10-09.45.32:226][566]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-09.45.40:270][423]BlueprintLog: New page: Compile Element_Light
+[2018.06.10-09.45.40:993][463]LogSavePackage: Save=13.38ms
+[2018.06.10-09.45.40:993][463]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_LightE2DD153249AB9B537C0F03B076E45794.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Light.uasset'
+[2018.06.10-09.45.40:994][463]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Light.uasset
+[2018.06.10-09.45.46:908][ 57]LogSlate: Window 'Element_Light' being destroyed
+[2018.06.10-09.46.21:617][443]LogSlate: Window 'Element_Shadow' being destroyed
+[2018.06.10-09.46.21:621][443]LogSlate: Window 'Element_Shadow' being destroyed
+[2018.06.10-09.46.25:875][786]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.10-09.46.31:912][360]BlueprintLog: New page: Compile Element_Test
+[2018.06.10-09.46.32:499][387]LogSavePackage: Save=5.96ms
+[2018.06.10-09.46.32:499][387]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_TestF0EDB85149484F94CD328CA57AFFA2CA.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset'
+[2018.06.10-09.46.32:500][387]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset
+[2018.06.10-09.46.33:519][467]LogSlate: Window 'Element_Test' being destroyed
+[2018.06.10-09.47.40:796][839]LogSlate: Window 'Color Picker' being destroyed
+[2018.06.10-09.47.45:976][963]BlueprintLog: New page: Compile Element_Test
+[2018.06.10-09.47.46:581][990]LogSavePackage: Save=6.13ms
+[2018.06.10-09.47.46:581][990]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Element_TestED8A81FF44570C1A43930C936099EB78.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset'
+[2018.06.10-09.47.46:582][990]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset
+[2018.06.10-09.47.47:173][ 36]LogSlate: Window 'Element_Test' being destroyed
+[2018.06.10-09.50.30:955][409]LogSavePackage: Save=1.31ms
+[2018.06.10-09.50.30:955][409]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage9A10E9074E9B46803B8EF5B6220BD75A.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.50.30:956][409]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.51.10:169][657]LogSavePackage: Save=20.26ms
+[2018.06.10-09.51.10:169][657]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage271C425B4A0FB53E79BAAE9492156B44.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.51.10:169][657]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.51.57:456][859]LogSavePackage: Save=1.57ms
+[2018.06.10-09.51.57:456][859]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStageA5582E254075DB71CBF26C99DBDE5AA0.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.51.57:457][859]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.52.14:595][ 85]LogSavePackage: Save=1.65ms
+[2018.06.10-09.52.14:595][ 85]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage4D86E6B14259D40EAB1A30B17FC94166.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.52.14:596][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.52.40:219][696]LogSavePackage: Save=1.97ms
+[2018.06.10-09.52.40:219][696]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage85030E0B4AF8D19500182686474119F6.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.52.40:220][696]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.56.08:792][161]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.06.10-09.56.08:793][161]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Game/Blueprints/Struktures/S_SkillStage] ([1] browsable assets)...
+[2018.06.10-09.56.08:793][161]OBJ SavePackage: Finished generating thumbnails for package [/Game/Game/Blueprints/Struktures/S_SkillStage]
+[2018.06.10-09.56.08:799][161]LogSavePackage: Save=2.51ms
+[2018.06.10-09.56.08:799][161]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage_Auto29F18A9F442161F3E8BE5A388090788A5.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Struktures/S_SkillStage_Auto2.uasset'
+[2018.06.10-09.56.08:799][161]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Autosaves/Game/Game/Blueprints/Struktures/S_SkillStage_Auto2.uasset
+[2018.06.10-09.56.08:799][161]LogFileHelpers: Auto-saving content packages took 0.007
+[2018.06.10-09.56.44:375][360]LogSavePackage: Save=2.43ms
+[2018.06.10-09.56.44:375][360]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage4E2ED1EE475E06E2FDD14EB8E2E695CD.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.56.44:375][360]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.57.26:839][323]LogSavePackage: Save=2.67ms
+[2018.06.10-09.57.26:839][323]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage2607FD7B4C9159A41F9A748164133C02.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.57.26:840][323]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.57.59:969][782]LogSavePackage: Save=2.55ms
+[2018.06.10-09.57.59:969][782]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage8E5664B24935CEB74342BA80D0FFEB14.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.57.59:970][782]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.58.00:740][846]LogSavePackage: Save=2.80ms
+[2018.06.10-09.58.00:740][846]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillStage5D6575BC407B3A7FEEF699B9B65BC54D.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset'
+[2018.06.10-09.58.00:740][846]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-09.58.04:413][250]LogSlate: Window 'S_SkillStage' being destroyed
+[2018.06.10-09.59.09:552][954]LogSavePackage: Save=1.18ms
+[2018.06.10-09.59.09:552][954]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfoA99003214DB4931E98B6BFA2B728A91A.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-09.59.09:553][954]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-09.59.24:132][235]LogSavePackage: Save=1.27ms
+[2018.06.10-09.59.24:132][235]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfoDE1D0DFB4C15D518563D4A9F7A958C77.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-09.59.24:133][235]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-09.59.50:379][756]LogSavePackage: Save=1.25ms
+[2018.06.10-09.59.50:379][756]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfo6543201C460579D1CD6CFCA620074C0C.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-09.59.50:380][756]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-10.00.17:735][783]LogSavePackage: Save=1.57ms
+[2018.06.10-10.00.17:735][783]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfo33C20225455BA69E1C80FEAC469E1EDF.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-10.00.17:736][783]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-10.00.41:729][750]LogSavePackage: Save=1.67ms
+[2018.06.10-10.00.41:729][750]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfo67E7A52D4E0F39903BC78D9205733920.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-10.00.41:729][750]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-10.01.15:670][628]LogSavePackage: Save=1.81ms
+[2018.06.10-10.01.15:670][628]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/S_SkillInfo4D1BE2AF4805801856E25384E284494F.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset'
+[2018.06.10-10.01.15:671][628]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-10.01.16:252][671]LogSlate: Window 'S_SkillInfo' being destroyed
+[2018.06.10-10.02.05:493][104]BlueprintLog: New page: Compile Master_Skill
+[2018.06.10-10.02.06:184][135]LogSavePackage: Save=4.97ms
+[2018.06.10-10.02.06:184][135]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_Skill5F1359304ACD408C255E4C8BACDB1897.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset'
+[2018.06.10-10.02.06:185][135]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.02.38:581][783]BlueprintLog: New page: Compile Master_Skill
+[2018.06.10-10.02.39:161][809]LogSavePackage: Save=9.64ms
+[2018.06.10-10.02.39:161][809]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_Skill4B6A07334254F605906DA5AF81289F98.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset'
+[2018.06.10-10.02.39:162][809]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.02.46:774][221]LogSlate: Took 0.010215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.10-10.02.47:191][246]BlueprintLog: New page: Compile Master_Skill
+[2018.06.10-10.02.47:195][246]LogClass: Warning: Type mismatch in CurrentStageIndex of Master_Skill_C - Previous (BoolProperty) Current(IntProperty) for package:  FObjectReader
+[2018.06.10-10.02.47:621][259]LogSavePackage: Save=4.94ms
+[2018.06.10-10.02.47:621][259]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_Skill70FEA06840175A6A6883AE9BA9498541.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset'
+[2018.06.10-10.02.47:622][259]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.03.05:835][190]BlueprintLog: New page: Compile Master_Skill
+[2018.06.10-10.03.06:697][230]LogSavePackage: Save=4.44ms
+[2018.06.10-10.03.06:697][230]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_SkillF976E94F4DE5A61AC9A468B054C70716.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset'
+[2018.06.10-10.03.06:697][230]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.03.33:269][785]LogSlate: Took 0.017546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.10-10.05.53:947][995]BlueprintLog: New page: Compile Master_Skill
+[2018.06.10-10.05.55:349][ 98]LogSavePackage: Save=8.17ms
+[2018.06.10-10.05.55:349][ 98]LogSavePackage: Moving '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Master_SkillDC3FC9A54E2D438DDBDDE2A72AFF14DC.tmp' to '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset'
+[2018.06.10-10.05.55:350][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.05.56:172][158]LogSlate: Window 'Master_Skill' being destroyed
+[2018.06.10-10.06.00:525][579]SourceControl: fatal: F:/Unreal Engine/UE_4.19/Engine/Content: 'F:/Unreal Engine/UE_4.19/Engine/Content' is outside repository
+[2018.06.10-10.06.26:827][579]LogSlate: Window 'Submit Files' being destroyed
+[2018.06.10-10.06.31:198][579]LogSourceControl: commit successful: [Änderungen ab68e88] Setup Needed Skill Objects and Struktures
+[2018.06.10-10.06.31:329][579]SourceControl: [Änderungen ab68e88] Setup Needed Skill Objects and Struktures
+[2018.06.10-10.06.31:329][579]SourceControl:  18 files changed, 0 insertions(+), 0 deletions(-)
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Light.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Shadow.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Element_Test.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Elements/Master_Element.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_DamageTypes.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_Effectivnis.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Enums/E_TargetTypes.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Master_Skill.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_ElementInfo.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillInfo.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Struktures/S_SkillStage.uasset
+[2018.06.10-10.06.31:329][579]SourceControl:  delete mode 100644 Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarDef.png
+[2018.06.10-10.06.31:329][579]SourceControl:  rewrite Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarDef.uasset (100%)
+[2018.06.10-10.06.31:329][579]SourceControl:  delete mode 100644 Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarFill.png
+[2018.06.10-10.06.31:329][579]SourceControl:  rewrite Engine_Test/Steampunk_Game/Content/Game/Materials/ProgressBarFill.uasset (100%)
+[2018.06.10-10.06.31:329][579]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Textures/SkillBorder.uasset
+[2018.06.10-10.06.31:334][579]SourceControl: Commited [Änderungen ab68e88] Setup Needed Skill Objects and Struktures.
+[2018.06.10-10.06.57:178][666]LogSlate: Window 'Steampunk_Game - Unreal Editor' being destroyed
+[2018.06.10-10.06.57:378][667]Cmd: QUIT_EDITOR
+[2018.06.10-10.06.57:403][667]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.10-10.06.57:403][667]LogExit: Preparing to exit.
+[2018.06.10-10.06.58:380][667]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.10-10.06.58:410][667]LogExit: Editor shut down
+[2018.06.10-10.06.58:414][667]LogExit: Transaction tracking system shut down
+[2018.06.10-10.06.58:414][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006a373330, Size=16
+[2018.06.10-10.06.58:414][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000002a409d50, Size=72
+[2018.06.10-10.06.58:416][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000006a4f2e00, Size=664
+[2018.06.10-10.06.58:417][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000007728a4d8, Size=4
+[2018.06.10-10.06.58:417][667]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000007728a4d0, Size=4
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.10-10.06.58:584][667]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.10-10.06.58:683][667]LogExit: Object subsystem successfully closed.
+[2018.06.10-10.06.58:700][667]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.10-10.06.58:703][667]LogD3D11RHI: Shutdown
+[2018.06.10-10.06.58:703][667]LogD3D11RHI: CleanupD3DDevice
+[2018.06.10-10.06.58:707][667]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module BlueprintGraph (580)
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module TextureEditor (576)
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.10-10.06.58:714][667]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.10-10.06.58:714][667]LogDirectoryWatcher: A directory notification for 'F:/Unreal Engine/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.10-10.06.58:717][667]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.10-10.06.58:717][667]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.10-10.06.58:717][667]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.10-10.06.58:717][667]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' was aborted.
+[2018.06.10-10.06.58:717][667]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' was aborted.
+[2018.06.10-10.06.58:718][667]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' was aborted.
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.10-10.06.58:718][667]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.10-10.06.58:719][667]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.10-10.06.58:960][667]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.10-10.06.58:961][667]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.10-10.06.58:961][667]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.10-10.06.58:961][667]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.10-10.06.58:961][667]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.10-10.06.58:961][667]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.10-10.06.58:969][667]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.10-10.06.58:969][667]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.10-10.06.59:009][667]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.10-10.06.59:014][667]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.10-10.06.59:014][667]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.10-10.06.59:015][667]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.10-10.06.59:160][667]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.10-10.06.59:163][667]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.10-10.06.59:164][667]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.10-10.06.59:264][667]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.10-10.06.59:364][667]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.10-10.06.59:365][667]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.10-10.06.59:365][667]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.10-10.06.59:365][667]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.10-10.06.59:365][667]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.10-10.06.59:365][667]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.10-10.06.59:366][667]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.10-10.06.59:366][667]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.10-10.06.59:366][667]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.10-10.06.59:366][667]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.10-10.07.00:328][667]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.10-10.07.00:328][667]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.10-10.07.00:328][667]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.10-10.07.00:329][667]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.10-10.07.00:334][667]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.10-10.07.00:336][667]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.10-10.07.00:337][667]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.10-10.07.00:358][667]LogDerivedDataCache: Shutdown
+[2018.06.10-10.07.00:358][667]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.10-10.07.00:358][667]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.10-10.07.00:358][667]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.10-10.07.00:358][667]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.10-10.07.00:358][667]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.10-10.07.00:371][667]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.10-10.07.00:372][667]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.10-10.07.00:380][667]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.10-10.07.00:380][667]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.10-10.07.00:380][667]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.10-10.07.00:380][667]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B706584DC-4504-F2B8-54E8-FC81E810CE67%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=6cc6a6264c79a9e9a1a507950e1b09dd%7C3f8d87c4e20c4ab78b8aa71926b9badb%7C96f06219-4088-4904-a37b-5e236bca6233&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.10-10.07.00:399][667]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.10-10.07.00:400][667]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.10-10.07.00:401][667]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.10-10.07.00:404][667]LogExit: Exiting.
+[2018.06.10-10.07.00:413][667]Log file closed, 06/10/18 12:07:00

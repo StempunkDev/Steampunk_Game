@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+﻿Log file open, 06/11/18 07:49:19
+=======
 ﻿Log file open, 06/09/18 10:55:29
+>>>>>>> master
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +11,21 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Steampunk_Game
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
+LogInit: Display: RandInit(1266068345) SRandInit(1266068345).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.628785
+=======
 LogInit: Display: RandInit(-440971301) SRandInit(-440971301).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.169885
+>>>>>>> master
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +181,11 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< HEAD
+LogStreaming: Display: Took  7.409s to configure plugins.
+=======
 LogStreaming: Display: Took  1.788s to configure plugins.
+>>>>>>> master
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -188,7 +205,11 @@ LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+<<<<<<< HEAD
+LogInit: WinSock: I am LAPTOP-E73I5TBM (192.168.137.1:0)
+=======
 LogInit: WinSock: I am Leonard-PC (192.168.0.19:0)
+>>>>>>> master
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -217,6 +238,831 @@ LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
+<<<<<<< HEAD
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.11-05.49.27:507][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-05.49.27:507][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.11-05.49.27:611][  0]LogInit: Computer: LAPTOP-E73I5TBM
+[2018.06.11-05.49.27:611][  0]LogInit: User: Leonard
+[2018.06.11-05.49.27:611][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.11-05.49.27:611][  0]LogInit: High frequency timer resolution =1.757810 MHz
+[2018.06.11-05.49.27:612][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.11-05.49.27:612][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.11-05.49.27:612][  0]LogMemory: Process Physical Memory: 274.68 MB used, 274.68 MB peak
+[2018.06.11-05.49.27:612][  0]LogMemory: Process Virtual Memory: 264.81 MB used, 264.81 MB peak
+[2018.06.11-05.49.27:612][  0]LogMemory: Physical Memory: 3171.27 MB used,  4896.32 MB free, 8067.60 MB total
+[2018.06.11-05.49.27:612][  0]LogMemory: Virtual Memory: 4794.11 MB used,  4896.32 MB free, 134217728.00 MB total
+[2018.06.11-05.49.28:510][  0]LogInit: Using OS detected language (de-DE).
+[2018.06.11-05.49.28:510][  0]LogInit: Using OS detected locale (de-DE).
+[2018.06.11-05.49.28:754][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.06.11-05.49.30:134][  0]LogStreaming: Display: Took  1.625s to EndInitTextLocalization.
+[2018.06.11-05.49.30:135][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.11-05.49.30:593][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.11-05.49.30:593][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.11-05.49.41:583][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.11-05.49.41:603][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 620' (Feature Level 11_0)
+[2018.06.11-05.49.41:603][  0]LogD3D11RHI:       128/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.06.11-05.49.41:607][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.11-05.49.41:607][  0]LogD3D11RHI:       0/0/4033 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.11-05.49.41:607][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.11-05.49.41:615][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.11-05.49.41:615][  0]LogD3D11RHI:     GPU DeviceId: 0x5917 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.11-05.49.41:615][  0]LogWindows: EnumDisplayDevices:
+[2018.06.11-05.49.41:616][  0]LogWindows:    0. 'Intel(R) UHD Graphics 620' (P:1 D:1)
+[2018.06.11-05.49.41:616][  0]LogWindows:    1. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.06.11-05.49.41:616][  0]LogWindows:    2. 'Intel(R) UHD Graphics 620' (P:0 D:0)
+[2018.06.11-05.49.41:617][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.11-05.49.41:617][  0]LogD3D11RHI:     Adapter Name: Intel(R) UHD Graphics 620
+[2018.06.11-05.49.41:617][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.11-05.49.41:617][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.11-05.49.41:617][  0]LogRHI: Texture pool is 1501 MB (70% of 2144 MB)
+[2018.06.11-05.49.41:633][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.11-05.49.41:650][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.06.11-05.49.41:651][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Intermediate/Shaders/WorkingDirectory/14252/).
+[2018.06.11-05.49.41:651][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leonard/AppData/Local/Temp/UnrealShaderWorkingDir/13E664E6478E0B162C6A33A0314E0928/'.
+[2018.06.11-05.49.44:237][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.11-05.49.44:263][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.11-05.49.44:289][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.11-05.49.44:315][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.11-05.49.44:374][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.11-05.49.44:400][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.11-05.49.44:426][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.11-05.49.44:453][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.11-05.49.44:465][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.11-05.49.44:489][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.11-05.49.44:512][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.11-05.49.44:535][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.11-05.49.44:559][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.11-05.49.44:582][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.11-05.49.44:604][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.11-05.49.44:651][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.11-05.49.44:651][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.11-05.49.44:700][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.11-05.49.44:702][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.11-05.49.44:888][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.11-05.49.44:911][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.11-05.49.44:934][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.11-05.49.44:958][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.11-05.49.44:989][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.11-05.49.45:032][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.11-05.49.45:032][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.11-05.49.46:365][  0]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.11-05.49.46:365][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.11-05.49.46:365][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.11-05.49.46:365][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.11-05.49.54:316][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: Loaded boot cache 0.73s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.11-05.49.55:051][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.11-05.49.55:246][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.11-05.49.55:259][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leonard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.11-05.49.55:259][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.11-05.49.55:259][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.11-05.49.55:281][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.11-05.49.55:281][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.11-05.49.55:331][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-05.49.55:331][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-05.50.08:651][  0]LogAssetRegistry: FAssetRegistry took 0.0304 seconds to start up
+[2018.06.11-05.50.09:313][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-05.50.11:200][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.11-05.50.11:205][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.11-05.50.11:205][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.11-05.50.11:205][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.11-05.50.11:205][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.11-05.50.11:205][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.11-05.50.11:485][  0]LogNetVersion: Steampunk_Game , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2220472046)
+[2018.06.11-05.50.17:004][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.133905 seconds
+[2018.06.11-05.50.17:022][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.11-05.50.17:022][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.11-05.50.17:022][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.11-05.51.19:323][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.11-05.51.19:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.11-05.51.22:233][  0]SourceControl: Source control is disabled
+[2018.06.11-05.51.31:163][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.11-05.51.32:060][  0]LogOcInput: OculusInput pre-init called
+[2018.06.11-05.51.36:276][  0]LogEngine: Initializing Engine...
+[2018.06.11-05.51.36:722][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.11-05.51.36:885][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-05.51.36:887][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.06.11-05.51.40:663][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.11-05.51.40:979][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.11-05.51.42:382][  0]LogInit: FAudioDevice initialized.
+[2018.06.11-05.51.43:126][  0]LogDerivedDataCache: Saved boot cache 0.72s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-05.51.43:156][  0]LogInit: Texture streaming: Enabled
+[2018.06.11-05.51.43:621][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.11-05.51.44:986][  0]LogInit: Transaction tracking system initialized
+[2018.06.11-05.51.46:605][  0]BlueprintLog: New page: Editor Load
+[2018.06.11-05.51.52:824][  0]LocalizationService: Localization service is disabled
+[2018.06.11-05.51.57:975][  0]LogConsoleResponse: Display: 
+[2018.06.11-05.52.03:112][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' took 0.06s
+[2018.06.11-05.52.03:112][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.11-05.52.03:113][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.11-05.52.03:151][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.11-05.52.03:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-05.52.03:152][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-05.52.09:912][  0]LightingResults: New page: Lighting Build
+[2018.06.11-05.52.10:377][  0]MapCheck: New page: Map Check
+[2018.06.11-05.52.10:377][  0]LightingResults: New page: Lighting Build
+[2018.06.11-05.52.13:908][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.11-05.52.14:761][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-05.52.14:943][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-05.52.15:132][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164,605ms to complete.
+[2018.06.11-05.52.15:132][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 5.306
+[2018.06.11-05.52.19:373][  0]LogCollectionManager: Loaded 0 collections in 0.003425 seconds
+[2018.06.11-05.52.19:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' took 0.01s
+[2018.06.11-05.52.19:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' took 0.01s
+[2018.06.11-05.52.19:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' took 0.01s
+[2018.06.11-05.52.19:582][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.06.11-05.52.19:606][  0]LogContentBrowser: Native class hierarchy populated in 0.0199 seconds. Added 2452 classes and 558 folders.
+[2018.06.11-05.52.19:810][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.11-05.52.26:114][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.11-05.52.26:183][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.11-05.52.27:096][  0]LogSlate: Took 0.029396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.11-05.52.27:124][  0]LogSlate: Took 0.024160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.11-05.52.27:176][  0]LogSlate: Took 0.026217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.11-05.52.27:872][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 9 NumSamples 1 (Frame:1).
+[2018.06.11-05.52.30:473][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.11-05.52.30:473][  0]LogLoad: (Engine Initialization) Total time: 215.86 seconds
+[2018.06.11-05.52.30:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.11-05.52.31:063][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.06.11-05.52.31:272][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' took 0.38s
+[2018.06.11-05.52.32:296][  4]LogAssetRegistry: Asset discovery search completed in 143.6671 seconds
+[2018.06.11-05.52.32:315][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.11-05.52.32:315][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.015264 seconds (updated 0 objects)
+[2018.06.11-05.52.35:490][ 13]LogSlate: Took 0.086528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-05.52.39:951][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-05.52.40:003][ 30]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.11-05.52.40:100][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.11-05.52.40:141][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.11-05.52.40:594][ 30]PIE: New page: PIE session: ThirdPersonExampleMap (11.06.2018 09:52:40)
+[2018.06.11-05.52.40:595][ 30]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.11-05.52.40:703][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.108188s)
+[2018.06.11-05.52.40:705][ 30]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.11-05.52.40:746][ 30]LogPlayLevel: PIE: World Init took: (0.042591s)
+[2018.06.11-05.52.40:746][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.151262s)
+[2018.06.11-05.52.40:801][ 30]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.11-05.52.40:825][ 30]LogInit: FAudioDevice initialized.
+[2018.06.11-05.52.41:328][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d5ffc40, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.11-05.52.41:441][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d5ffc40, Size=64
+[2018.06.11-05.52.41:441][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d5fefc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.11-05.52.41:509][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d9c2f70, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.11-05.52.41:732][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d53d630, Size=16, Default__W_StatusBar_C Function /Game/Game/HUD/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.11-05.52.41:812][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d53d630, Size=16
+[2018.06.11-05.52.41:812][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d53d630, Size=16, Default__W_StatusBar_C Function /Engine/Transient.REINST_W_StatusBar_C_0:ExecuteUbergraph_W_StatusBar
+[2018.06.11-05.52.41:819][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9d96bf40, Size=16, Default__W_StatusBar_C Function /Game/Game/HUD/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.11-05.52.42:438][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9f6eba00, Size=664, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.11-05.52.42:593][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9f6eba00, Size=664
+[2018.06.11-05.52.42:593][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9f6eba00, Size=664, Default__Main_Character_C Function /Engine/Transient.REINST_Main_Character_C_8:ExecuteUbergraph_Main_Character
+[2018.06.11-05.52.42:664][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9f481f00, Size=664, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.11-05.52.43:475][ 30]LogSkeletalMesh: Skeletal Mesh found in DDC [50.406471ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.11-05.52.43:524][ 30]LogMaterial: Missing cached shader map for material M_ProgressBarFill, compiling. 
+[2018.06.11-05.52.43:772][ 30]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.11-05.52.43:772][ 30]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.11-05.52.43:772][ 30]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.11-05.52.43:773][ 30]LogLoad: Game class is 'Game_Gamemode_C'
+[2018.06.11-05.52.44:168][ 30]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.11-07.52.44
+[2018.06.11-05.52.44:232][ 30]LogWorld: Bringing up level for play took: 0.081588
+[2018.06.11-05.52.45:066][ 30]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.06.11-05.52.46:157][ 30]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 6,203
+[2018.06.11-05.52.46:171][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.11-05.53.38:910][672]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.11-05.53.39:032][672]LogSlate: Window 'Steampunk_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.11-05.53.39:273][672]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.11-05.53.39:498][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d53d630, Size=16
+[2018.06.11-05.53.39:499][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d5fefc0, Size=64
+[2018.06.11-05.53.39:518][672]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9f6eba00, Size=664
+[2018.06.11-05.54.07:480][843]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-05.54.08:955][843]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.06.11-05.54.09:778][843]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ea065a518, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-05.54.09:792][843]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027ea065a510, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-05.54.51:635][218]LogSlate: Window 'Element_Light' being destroyed
+[2018.06.11-05.54.51:642][218]LogSlate: Window 'Element_Light' being destroyed
+[2018.06.11-05.55.33:714][148]LogRenderer: Reallocating scene render targets to support 964x540 Format 9 NumSamples 1 (Frame:1).
+[2018.06.11-05.55.46:961][501]LogClass: Warning: In asset 'None', there is an enum property of type 'E_TargetTypes' with an invalid value of ''
+[2018.06.11-05.56.30:226][636]LogSlate: Window 'Explosion*' being destroyed
+[2018.06.11-05.56.30:243][636]LogSlate: Window 'Explosion*' being destroyed
+[2018.06.11-05.56.38:842][ 69]LogSavePackage: Save=489.73ms
+[2018.06.11-05.56.38:842][ 69]LogSavePackage: Moving '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMapCB69F74448C1666C7E3B3FAD3AF10CDA.tmp' to '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.06.11-05.56.38:876][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.06.11-05.56.39:488][ 69]LogSavePackage: Save=422.15ms
+[2018.06.11-05.56.39:488][ 69]LogSavePackage: Moving '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ThirdPersonExampleMap_BuiltDataD0D68797453A5C36C666D293B5AFC279.tmp' to '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.06.11-05.56.39:491][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.06.11-05.56.39:785][ 79]LogHttp: Warning: 0000027EABB2C100: request failed, libcurl error: 35 (SSL connect error)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27e95c87fe8 [can pipeline])
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.231.138.22) port 443 (#0))
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 3 (upload completely sent off: 1170 out of 1170 bytes)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 6 (Closing connection 0)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE0A8771-4990-62A7-61A9-59ACD5BA3BC9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=610a98fd426766d83944aea9cd839943%7C3f8d87c4e20c4ab78b8aa71926b9badb%7Ccbfcd9cf-b2ac-43e4-8a71-1f8ac7c36faa&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 9 (  Trying 52.2.103.56...)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.2.103.56) port 443 (#1))
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 11 (ALPN, offering http/1.1)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 12 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 13 (SSL re-using session ID)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.11-05.56.39:786][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 18 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 19 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 20 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 21 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 22 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.06.11-05.56.39:787][ 79]LogHttp: Warning: 0000027EABB2C100: libcurl info message cache 23 (Closing connection 1)
+[2018.06.11-05.56.41:076][115]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.06.11-05.56.44:707][216]BlueprintLog: New page: Compile Explosion
+[2018.06.11-05.56.46:526][252]LogSavePackage: Save=68.38ms
+[2018.06.11-05.56.46:526][252]LogSavePackage: Moving '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/ExplosionF03356DF43B27DC48FBE08B3F76DCCDB.tmp' to '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Explosion.uasset'
+[2018.06.11-05.56.46:531][252]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Explosion.uasset
+[2018.06.11-05.56.47:855][282]LogSlate: Window 'CompilerResults' being destroyed
+[2018.06.11-05.56.47:865][282]LogSlate: Window 'CompilerResults' being destroyed
+[2018.06.11-05.56.47:865][282]LogSlate: Window 'Explosion' being destroyed
+[2018.06.11-05.56.53:485][535]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.06.11-05.56.59:907][535]LogSlate: Window 'Submit Files' being destroyed
+[2018.06.11-05.57.04:714][535]LogSourceControl: commit successful: [Änderungen 2b1f738] Test Spell
+[2018.06.11-05.57.04:880][535]SourceControl: [Änderungen 2b1f738] Test Spell
+[2018.06.11-05.57.04:880][535]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2018.06.11-05.57.04:880][535]SourceControl:  create mode 100644 Engine_Test/Steampunk_Game/Content/Game/Blueprints/Skills/Explosion.uasset
+[2018.06.11-05.57.04:890][535]SourceControl: Commited [Änderungen 2b1f738] Test Spell.
+[2018.06.11-05.57.16:004][959]LogSlate: Took 0.017665 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.11-05.57.17:120][960]LogSlate: Took 0.017821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.11-05.57.35:731][597]LogHttp: Warning: 0000027EB7631C00: request failed, libcurl error: 35 (SSL connect error)
+[2018.06.11-05.57.35:731][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x27e95c87fb8 [serially])
+[2018.06.11-05.57.35:731][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 1 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2018.06.11-05.57.35:731][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 2 (  Trying 52.2.103.56...)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.2.103.56) port 443 (#2))
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 6 (SSL re-using session ID)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 15 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.06.11-05.57.35:732][597]LogHttp: Warning: 0000027EB7631C00: libcurl info message cache 16 (Closing connection 2)
+[2018.06.11-05.57.52:177][158]BlueprintLog: New page: Compile Main_Character
+[2018.06.11-05.57.52:382][158]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9f481f00, Size=664
+[2018.06.11-05.57.52:382][158]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027e9f6e9000, Size=664, Default__Main_Character_C Function /Engine/Transient.REINST_Main_Character_C_44:ExecuteUbergraph_Main_Character
+[2018.06.11-05.57.52:425][158]LogUObjectGlobals: Created PersistentFrame Addr=0x0000027eb7827700, Size=664, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.11-05.57.53:848][163]LogSavePackage: Save=388.68ms
+[2018.06.11-05.57.53:848][163]LogSavePackage: Moving '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Main_CharacterC3FCE96A4B41FBFC359F9F948514F6BC.tmp' to '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Character/Main_Character.uasset'
+[2018.06.11-05.57.53:851][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Game/Character/Main_Character.uasset
+[2018.06.11-05.57.54:256][175]LogSlate: Window 'Main_Character' being destroyed
+[2018.06.11-05.57.55:578][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9f6e9000, Size=664
+[2018.06.11-05.57.55:799][226]LogSlate: Window 'Steampunk_Game - Unreal Editor' being destroyed
+[2018.06.11-05.57.55:801][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.11-05.57.56:218][227]Cmd: QUIT_EDITOR
+[2018.06.11-05.57.57:193][227]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.11-05.57.57:212][227]LogExit: Preparing to exit.
+[2018.06.11-05.57.58:339][227]LogDirectoryWatcher: A directory notification for 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.11-05.57.58:569][227]LogExit: Editor shut down
+[2018.06.11-05.57.58:579][227]LogExit: Transaction tracking system shut down
+[2018.06.11-05.57.58:581][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d96bf40, Size=16
+[2018.06.11-05.57.58:581][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027e9d9c2f70, Size=72
+[2018.06.11-05.57.58:584][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027eb7827700, Size=664
+[2018.06.11-05.57.58:587][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ea065a518, Size=4
+[2018.06.11-05.57.58:587][227]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000027ea065a510, Size=4
+[2018.06.11-05.57.58:842][227]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.11-05.57.58:842][227]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.11-05.57.58:842][227]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.11-05.57.58:842][227]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.11-05.57.58:843][227]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.11-05.57.58:843][227]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.11-05.57.58:843][227]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.11-05.57.58:843][227]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.11-05.58.00:005][227]LogExit: Object subsystem successfully closed.
+[2018.06.11-05.58.00:284][227]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.11-05.58.00:323][227]LogD3D11RHI: Shutdown
+[2018.06.11-05.58.00:323][227]LogD3D11RHI: CleanupD3DDevice
+[2018.06.11-05.58.00:397][227]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.11-05.58.01:329][227]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.06.11-05.58.01:329][227]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.06.11-05.58.01:329][227]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.11-05.58.01:329][227]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.11-05.58.01:339][227]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.11-05.58.01:344][227]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.11-05.58.01:352][227]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.11-05.58.01:353][227]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.11-05.58.01:353][227]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.11-05.58.01:372][227]LogDirectoryWatcher: A directory notification for 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' was aborted.
+[2018.06.11-05.58.01:372][227]LogDirectoryWatcher: A directory notification for 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' was aborted.
+[2018.06.11-05.58.01:372][227]LogDirectoryWatcher: A directory notification for 'C:/Users/Leonard/Documents/GitHub/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' was aborted.
+[2018.06.11-05.58.01:372][227]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.11-05.58.01:373][227]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.11-05.58.01:373][227]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.11-05.58.01:373][227]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.11-05.58.01:375][227]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.11-05.58.01:375][227]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.11-05.58.01:375][227]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.11-05.58.01:388][227]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.11-05.58.01:388][227]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.11-05.58.01:388][227]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.11-05.58.01:388][227]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.11-05.58.01:388][227]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.11-05.58.01:396][227]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.11-05.58.01:396][227]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.11-05.58.01:396][227]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.11-05.58.01:422][227]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.11-05.58.01:434][227]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.11-05.58.01:479][227]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.11-05.58.01:479][227]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.11-05.58.01:501][227]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.11-05.58.01:502][227]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.11-05.58.01:502][227]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.11-05.58.01:516][227]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.11-05.58.01:516][227]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.11-05.58.01:516][227]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.11-05.58.01:516][227]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.11-05.58.01:517][227]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.11-05.58.01:543][227]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.11-05.58.01:559][227]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.11-05.58.01:561][227]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.11-05.58.01:571][227]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.11-05.58.01:593][227]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.11-05.58.01:593][227]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.11-05.58.01:593][227]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.11-05.58.01:593][227]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.11-05.58.01:960][227]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.11-05.58.01:960][227]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.11-05.58.01:961][227]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.11-05.58.01:961][227]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.11-05.58.01:964][227]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.11-05.58.01:987][227]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.11-05.58.02:022][227]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.11-05.58.02:044][227]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.11-05.58.02:044][227]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.11-05.58.02:069][227]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.11-05.58.02:070][227]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.11-05.58.02:083][227]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.11-05.58.02:105][227]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.11-05.58.02:137][227]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.11-05.58.02:151][227]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.11-05.58.02:173][227]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.11-05.58.02:237][227]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.11-05.58.02:257][227]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.11-05.58.02:289][227]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.11-05.58.02:311][227]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.11-05.58.02:311][227]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.11-05.58.02:335][227]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.11-05.58.02:335][227]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.11-05.58.02:356][227]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.11-05.58.02:356][227]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.11-05.58.02:356][227]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.11-05.58.02:369][227]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.11-05.58.02:369][227]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.11-05.58.02:371][227]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.11-05.58.02:371][227]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.11-05.58.02:371][227]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.11-05.58.02:373][227]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.11-05.58.02:389][227]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.11-05.58.02:403][227]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.11-05.58.02:410][227]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.11-05.58.02:428][227]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.11-05.58.02:485][227]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.11-05.58.02:486][227]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.11-05.58.02:486][227]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.11-05.58.02:486][227]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.11-05.58.02:503][227]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.11-05.58.02:515][227]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.11-05.58.02:515][227]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.11-05.58.02:515][227]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.11-05.58.02:529][227]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.11-05.58.02:529][227]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.11-05.58.02:529][227]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.11-05.58.02:529][227]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.11-05.58.02:529][227]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.11-05.58.02:547][227]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.11-05.58.02:547][227]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.11-05.58.02:547][227]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.11-05.58.02:547][227]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.11-05.58.02:553][227]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.11-05.58.02:553][227]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.11-05.58.02:561][227]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.11-05.58.02:564][227]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.11-05.58.02:565][227]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.11-05.58.02:596][227]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.11-05.58.02:596][227]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.11-05.58.02:596][227]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.11-05.58.02:596][227]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.11-05.58.02:596][227]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.11-05.58.02:617][227]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.11-05.58.02:619][227]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.11-05.58.02:619][227]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.11-05.58.02:619][227]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.11-05.58.02:628][227]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.11-05.58.02:628][227]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.11-05.58.02:628][227]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.11-05.58.02:628][227]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.11-05.58.02:645][227]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.11-05.58.02:645][227]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.11-05.58.02:645][227]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.11-05.58.02:645][227]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.11-05.58.02:646][227]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.11-05.58.02:821][227]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.11-05.58.02:936][227]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.11-05.58.02:946][227]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.11-05.58.02:946][227]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.11-05.58.02:946][227]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.11-05.58.02:946][227]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.11-05.58.02:969][227]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.11-05.58.02:976][227]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.11-05.58.02:986][227]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.11-05.58.02:986][227]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.11-05.58.02:986][227]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.11-05.58.02:996][227]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.11-05.58.02:997][227]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.11-05.58.02:998][227]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.11-05.58.02:998][227]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.11-05.58.02:999][227]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.11-05.58.03:414][227]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.11-05.58.03:439][227]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.11-05.58.03:439][227]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.11-05.58.03:442][227]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.11-05.58.03:448][227]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.11-05.58.03:449][227]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.11-05.58.03:449][227]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.11-05.58.03:470][227]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.11-05.58.03:470][227]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.11-05.58.03:470][227]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.11-05.58.03:470][227]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.11-05.58.03:472][227]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.11-05.58.03:472][227]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.11-05.58.03:472][227]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.11-05.58.03:475][227]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.11-05.58.03:475][227]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.11-05.58.03:477][227]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.11-05.58.03:477][227]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.11-05.58.03:487][227]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.11-05.58.03:519][227]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.11-05.58.03:542][227]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.11-05.58.03:542][227]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.11-05.58.03:578][227]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.11-05.58.03:578][227]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.11-05.58.03:581][227]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.11-05.58.03:594][227]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.11-05.58.03:594][227]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.11-05.58.03:600][227]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.11-05.58.03:600][227]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.11-05.58.03:600][227]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.11-05.58.03:601][227]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.11-05.58.03:614][227]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.11-05.58.03:614][227]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.11-05.58.03:615][227]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.11-05.58.03:616][227]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.11-05.58.03:670][227]LogDerivedDataCache: Shutdown
+[2018.06.11-05.58.03:670][227]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.11-05.58.03:670][227]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.11-05.58.03:670][227]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.11-05.58.03:670][227]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.11-05.58.03:680][227]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.11-05.58.03:687][227]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.11-05.58.03:687][227]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.11-05.58.03:699][227]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.11-05.58.03:700][227]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.11-05.58.03:700][227]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.11-05.58.03:700][227]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.11-05.58.03:710][227]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.11-05.58.03:732][227]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.11-05.58.03:733][227]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.11-05.58.03:734][227]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.11-05.58.03:755][227]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.11-05.58.03:755][227]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.11-05.58.03:755][227]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.11-05.58.03:755][227]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.11-05.58.03:755][227]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.11-05.58.03:771][227]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.11-05.58.03:789][227]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.11-05.58.03:827][227]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.11-05.58.03:827][227]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDE0A8771-4990-62A7-61A9-59ACD5BA3BC9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=610a98fd426766d83944aea9cd839943%7C3f8d87c4e20c4ab78b8aa71926b9badb%7Ccbfcd9cf-b2ac-43e4-8a71-1f8ac7c36faa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.11-05.58.03:827][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.04:327][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.04:828][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.05:329][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.05:830][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.06:330][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.06:830][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.07:331][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.07:832][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.08:332][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.08:833][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.09:333][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.09:834][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.10:335][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.10:835][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.11:336][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.11:836][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.12:337][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.12:838][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.13:338][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.13:839][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.14:340][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.14:841][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.15:341][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.15:841][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.16:342][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.16:842][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.17:343][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.17:844][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.18:344][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.18:845][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.19:346][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.19:847][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.20:347][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.20:848][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.21:349][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.21:849][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.22:350][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.22:851][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.23:352][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.23:853][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.24:354][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.24:856][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.25:356][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.25:857][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.26:357][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.26:858][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.27:358][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.27:859][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.28:360][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.28:861][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.29:362][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.29:863][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.30:363][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.30:864][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.31:364][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.31:864][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.32:365][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.32:865][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.33:366][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.33:867][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.34:368][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.34:868][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.35:369][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.35:869][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.36:369][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.36:871][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.37:372][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.37:872][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.38:373][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.38:874][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.39:374][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.39:875][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.40:376][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.40:877][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.41:377][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.41:877][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.42:378][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.42:878][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.43:379][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.43:879][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.44:380][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.44:880][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.45:380][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.45:881][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.46:381][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.46:883][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.47:383][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.47:884][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.48:385][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.48:885][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.49:386][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.49:886][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.50:387][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.50:888][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.51:388][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.51:890][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.52:390][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.52:891][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.53:391][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.53:892][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.54:393][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.54:894][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.55:395][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.55:895][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.56:395][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.56:896][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.57:397][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.57:898][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.58:398][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.58:899][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.59:400][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.58.59:901][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.00:402][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.00:903][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.01:404][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.01:904][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.02:404][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.02:905][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.03:406][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.03:906][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.04:407][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.04:907][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.05:408][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.05:909][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.06:410][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.06:910][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.07:411][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.07:912][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.08:413][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.08:914][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.09:415][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.09:916][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.10:416][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.10:917][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.11:418][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.11:918][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.12:418][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.12:919][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.13:420][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.13:921][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.14:422][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.14:922][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.15:423][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.15:923][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.16:424][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.16:924][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.17:425][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.17:925][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.18:427][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.18:927][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.19:428][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.19:929][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.20:430][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.20:930][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.21:431][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.21:931][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.22:432][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.22:933][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.23:434][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.23:934][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.24:436][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.24:936][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.25:437][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.25:937][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.26:438][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.26:939][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.27:439][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.27:939][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.28:440][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.28:941][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.29:441][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.29:942][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.30:442][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.30:943][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.31:444][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.31:944][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.32:445][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.32:946][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.33:446][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.33:947][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.34:447][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.34:948][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.35:449][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.35:949][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.36:450][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.36:951][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.37:451][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.37:952][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.38:453][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.38:953][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.39:454][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.39:955][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.40:455][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.40:957][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.41:458][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.41:958][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.42:459][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.42:959][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.43:460][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.43:961][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.44:461][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.44:962][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.45:463][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.45:963][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.46:464][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.46:965][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.47:465][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.47:966][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.48:467][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.48:968][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.49:469][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.49:969][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.50:470][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.50:970][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.51:471][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.51:971][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.52:472][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.52:973][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.53:473][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.53:974][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.54:475][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.54:975][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.55:476][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.55:977][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.56:477][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.56:978][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.57:479][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.57:979][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.58:480][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.58:981][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.59:481][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-05.59.59:982][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.00:482][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.00:982][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.01:483][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.01:984][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.02:485][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.02:985][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.06.11-06.00.03:485][227]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+=======
 LogInit: Base Directory: F:/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.013s to delete old logs.
@@ -5043,3 +5889,4 @@ LogInit: Object subsystem initialized
 [2018.06.09-12.58.23:086][ 70]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.06.09-12.58.23:099][ 70]LogExit: Exiting.
 [2018.06.09-12.58.23:109][ 70]Log file closed, 06/09/18 14:58:23
+>>>>>>> master
