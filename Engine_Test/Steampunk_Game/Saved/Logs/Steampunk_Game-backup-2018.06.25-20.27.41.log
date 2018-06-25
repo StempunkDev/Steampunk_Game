@@ -1,0 +1,1475 @@
+﻿Log file open, 06/25/18 20:17:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Steampunk_Game
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1570995558) SRandInit(1570995558).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.495154
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.967s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Leonard-PC (192.168.0.19:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Unreal Engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.25-18.17.21:858][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.25-18.17.21:858][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.25-18.17.21:959][  0]LogInit: Computer: LEONARD-PC
+[2018.06.25-18.17.21:959][  0]LogInit: User: Leonard
+[2018.06.25-18.17.21:959][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.25-18.17.21:959][  0]LogInit: High frequency timer resolution =3.117294 MHz
+[2018.06.25-18.17.21:959][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.06.25-18.17.21:959][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.25-18.17.21:959][  0]LogMemory: Process Physical Memory: 274.41 MB used, 274.41 MB peak
+[2018.06.25-18.17.21:959][  0]LogMemory: Process Virtual Memory: 271.36 MB used, 271.36 MB peak
+[2018.06.25-18.17.21:959][  0]LogMemory: Physical Memory: 6858.71 MB used,  9456.17 MB free, 16314.88 MB total
+[2018.06.25-18.17.21:960][  0]LogMemory: Virtual Memory: 630.32 MB used,  9456.17 MB free, 8388608.00 MB total
+[2018.06.25-18.17.22:410][  0]LogInit: Using OS detected language (de-DE).
+[2018.06.25-18.17.22:410][  0]LogInit: Using OS detected locale (de-DE).
+[2018.06.25-18.17.22:536][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.06.25-18.17.23:277][  0]LogStreaming: Display: Took  0.854s to EndInitTextLocalization.
+[2018.06.25-18.17.23:302][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.25-18.17.23:302][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.25-18.17.23:302][  0]LogInit: Setting process to DPI aware
+[2018.06.25-18.17.23:391][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.06.25-18.17.23:391][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.06.25-18.17.23:391][  0]LogInit: Setting process to DPI aware
+[2018.06.25-18.17.23:619][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.25-18.17.23:619][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.25-18.17.24:316][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.25-18.17.24:348][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.06.25-18.17.24:348][  0]LogD3D11RHI:       6036/0/7901 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.25-18.17.24:348][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.25-18.17.24:362][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.25-18.17.24:364][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.25-18.17.24:364][  0]LogWindows: EnumDisplayDevices:
+[2018.06.25-18.17.24:364][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.06.25-18.17.24:364][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.06.25-18.17.24:364][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.06.25-18.17.24:364][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.06.25-18.17.24:365][  0]LogD3D11RHI:   Driver Version: 390.65 (internal:23.21.13.9065, unified:390.65)
+[2018.06.25-18.17.24:365][  0]LogD3D11RHI:      Driver Date: 1-3-2018
+[2018.06.25-18.17.24:365][  0]LogRHI: Texture pool is 4225 MB (70% of 6036 MB)
+[2018.06.25-18.17.24:394][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.25-18.17.24:395][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.25-18.17.24:395][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.25-18.17.24:600][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.25-18.17.24:688][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Intermediate/Shaders/WorkingDirectory/8164/).
+[2018.06.25-18.17.24:698][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leonard/AppData/Local/Temp/UnrealShaderWorkingDir/E81DD7E74D8F5FE6B5BE2ABC90DE29D4/'.
+[2018.06.25-18.17.25:331][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.25-18.17.25:343][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.25-18.17.25:355][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.25-18.17.25:368][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.25-18.17.25:390][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.25-18.17.25:403][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.25-18.17.25:415][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.25-18.17.25:429][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.25-18.17.25:435][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.25-18.17.25:448][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.25-18.17.25:460][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.25-18.17.25:472][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.25-18.17.25:484][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.25-18.17.25:496][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.25-18.17.25:508][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.25-18.17.25:534][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.25-18.17.25:534][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.25-18.17.25:560][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.25-18.17.25:562][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.25-18.17.25:640][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.25-18.17.25:651][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.25-18.17.25:663][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.25-18.17.25:675][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.25-18.17.25:687][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.25-18.17.25:707][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.25-18.17.25:707][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.25-18.17.26:205][  0]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.25-18.17.26:205][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.25-18.17.26:215][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.25-18.17.26:215][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.25-18.17.27:956][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.25-18.17.28:295][  0]LogDerivedDataCache: Loaded boot cache 0.34s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.25-18.17.28:296][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.25-18.17.28:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.25-18.17.28:296][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.25-18.17.28:296][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.25-18.17.28:296][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.25-18.17.28:349][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.25-18.17.28:363][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leonard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.25-18.17.28:363][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.25-18.17.28:363][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.25-18.17.28:376][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.25-18.17.28:412][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.25-18.17.28:469][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.25-18.17.28:469][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.25-18.17.32:390][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.06.25-18.17.35:780][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.25-18.17.37:989][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.25-18.17.38:087][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.25-18.17.38:088][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.25-18.17.38:088][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.25-18.17.38:088][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.25-18.17.38:088][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.25-18.17.38:877][  0]LogNetVersion: Steampunk_Game , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2220472046)
+[2018.06.25-18.17.43:326][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.053484 seconds
+[2018.06.25-18.17.43:340][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.25-18.17.43:340][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.25-18.17.43:340][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.25-18.18.04:210][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.25-18.18.04:250][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.25-18.18.04:927][  0]SourceControl: Source control is disabled
+[2018.06.25-18.18.06:101][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.25-18.18.06:261][  0]LogOcInput: OculusInput pre-init called
+[2018.06.25-18.18.06:670][  0]LogEngine: Initializing Engine...
+[2018.06.25-18.18.06:681][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.25-18.18.06:700][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.25-18.18.06:701][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.25-18.18.07:207][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.25-18.18.07:246][  0]LogInit: XAudio2 using 'Lautsprecher (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.06.25-18.18.07:267][  0]LogInit: FAudioDevice initialized.
+[2018.06.25-18.18.07:346][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/Leonard/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.25-18.18.07:360][  0]LogInit: Texture streaming: Enabled
+[2018.06.25-18.18.07:448][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.25-18.18.07:608][  0]LogInit: Transaction tracking system initialized
+[2018.06.25-18.18.07:900][  0]BlueprintLog: New page: Editor Load
+[2018.06.25-18.18.08:732][  0]LocalizationService: Localization service is disabled
+[2018.06.25-18.18.09:258][  0]LogConsoleResponse: Display: 
+[2018.06.25-18.18.10:351][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' took 0.03s
+[2018.06.25-18.18.10:351][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.25-18.18.10:351][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.25-18.18.10:351][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.25-18.18.10:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.25-18.18.10:351][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.25-18.18.13:291][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.25-18.18.13:332][  0]LightingResults: New page: Lighting Build
+[2018.06.25-18.18.13:543][  0]MapCheck: New page: Map Check
+[2018.06.25-18.18.13:544][  0]LightingResults: New page: Lighting Build
+[2018.06.25-18.18.14:885][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.25-18.18.15:192][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.25-18.18.15:233][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.25-18.18.15:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 23,133ms to complete.
+[2018.06.25-18.18.15:256][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.003
+[2018.06.25-18.18.16:487][  0]LogCollectionManager: Loaded 0 collections in 0.001200 seconds
+[2018.06.25-18.18.16:600][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' took 0.01s
+[2018.06.25-18.18.16:600][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' took 0.01s
+[2018.06.25-18.18.16:600][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' took 0.01s
+[2018.06.25-18.18.16:600][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.25-18.18.16:610][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2452 classes and 558 folders.
+[2018.06.25-18.18.16:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.25-18.18.17:381][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.25-18.18.17:420][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.25-18.18.18:009][  0]LogSlate: Took 0.008707 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.25-18.18.18:025][  0]LogSlate: Took 0.015032 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.25-18.18.18:082][  0]LogSlate: Took 0.011547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.25-18.18.18:290][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.25-18.18.18:718][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.25-18.18.18:718][  0]LogLoad: (Engine Initialization) Total time: 71.46 seconds
+[2018.06.25-18.18.18:718][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.25-18.18.19:168][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.25-18.18.19:265][  0]LogSlate: Took 0.023204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.25-18.18.19:390][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' took 0.31s
+[2018.06.25-18.18.19:403][  1]LogAssetRegistry: Asset discovery search completed in 47.0322 seconds
+[2018.06.25-18.18.19:404][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.25-18.18.19:404][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
+[2018.06.25-18.18.33:066][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.25-18.18.46:673][502]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.25-18.18.47:267][502]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Downloads\Standing Up.fbx)
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Model, ItemCount : 66
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: NodeAttribute, ItemCount : 65
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Texture, ItemCount : 3
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Video, ItemCount : 3
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Pose, ItemCount : 1
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Deformer, ItemCount : 66
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: AnimationStack, ItemCount : 2
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: AnimationLayer, ItemCount : 2
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: Material, ItemCount : 1
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2018.06.25-18.18.47:442][502]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2018.06.25-18.18.47:466][502]LogFbx: Loading FBX Scene from F:\Downloads\Standing Up.fbx
+[2018.06.25-18.18.47:603][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.19.14:896][502]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.06.25-18.19.15:037][502]LogFbx: Loading FBX Scene from F:\Downloads\Standing Up.fbx
+[2018.06.25-18.19.15:122][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.19.15:131][502]LogFbx: =================================================
+[2018.06.25-18.19.15:131][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.15:131][502]LogFbx: 	Total Deformer Count 817881104.
+[2018.06.25-18.19.15:131][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.15:131][502]LogFbx: =================================================
+[2018.06.25-18.19.15:131][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.15:131][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.15:131][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.15:137][502]LogFbx: =================================================
+[2018.06.25-18.19.15:137][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.15:137][502]LogFbx: 	Total Deformer Count 817881216.
+[2018.06.25-18.19.15:137][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.15:137][502]LogFbx: =================================================
+[2018.06.25-18.19.15:137][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.15:137][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.15:137][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.15:153][502]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Kachujin : The relative matrices do not match
+[2018.06.25-18.19.15:153][502]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.06.25-18.19.15:154][502]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Kachujin
+[2018.06.25-18.19.15:154][502]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.06.25-18.19.15:184][502]LogMaterial: Warning: Material /Game/Game/Character/Animations/kachujin_MAT.kachujin_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.25-18.19.15:189][502]LogMaterial: Missing cached shader map for material kachujin_MAT, compiling. 
+[2018.06.25-18.19.15:279][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_diffuse'
+[2018.06.25-18.19.15:280][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_diffuse'
+[2018.06.25-18.19.15:607][502]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.25-18.19.15:607][502]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.25-18.19.15:607][502]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.25-18.19.15:617][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.19.20:726][502]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.25-18.19.20:726][502]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.25-18.19.20:726][502]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-18.19.20:747][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_specular'
+[2018.06.25-18.19.20:747][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_specular'
+[2018.06.25-18.19.20:967][502]LogTexture: Display: Building textures: Kachujin_specular (AutoDXT, 2048X2048)
+[2018.06.25-18.19.21:929][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_normal'
+[2018.06.25-18.19.21:929][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Kachujin_normal'
+[2018.06.25-18.19.22:197][502]LogTexture: Display: Building textures: Kachujin_normal (BC5, 2048X2048)
+[2018.06.25-18.19.23:195][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.19.28:224][502]LogMaterial: Missing cached shader map for material kachujin_MAT, compiling. 
+[2018.06.25-18.19.28:290][502]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.25-18.19.28:290][502]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.25-18.19.28:290][502]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.25-18.19.28:290][502]LogFbx: Triangulating skeletal mesh Kachujin
+[2018.06.25-18.19.28:551][502]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.25-18.19.28:890][502]LogSkeletalMesh: Section 0: 7665 vertices, 53 active bones
+[2018.06.25-18.19.29:001][502]LogSkeletalMesh: Section 0: Material=0, 12610 triangles
+[2018.06.25-18.19.29:002][502]LogSkeletalMesh: Building Skeletal Mesh Standing_Up...
+[2018.06.25-18.19.29:016][502]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Game/Character/Animations/Standing_Up.Standing_Up
+[2018.06.25-18.19.29:660][502]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.25-18.19.30:487][502]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.25-18.19.31:216][502]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.25-18.19.31:378][502]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.25-18.19.32:964][502]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.25-18.19.33:408][502]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-18.19.44:826][502]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.19.53:180][502]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.19.53:464][502]LogSkeletalMesh: Skeletal Mesh found in DDC [26.400461ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.25-18.19.55:416][502]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.19.55:446][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_PhysicsAsset'
+[2018.06.25-18.19.55:447][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_PhysicsAsset'
+[2018.06.25-18.19.55:508][502]LogFbx: =================================================
+[2018.06.25-18.19.55:508][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.55:508][502]LogFbx: 	Total Deformer Count 1278879672.
+[2018.06.25-18.19.55:508][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.55:508][502]LogFbx: =================================================
+[2018.06.25-18.19.55:508][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.55:508][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.55:508][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.55:509][502]LogFbx: =================================================
+[2018.06.25-18.19.55:509][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.55:509][502]LogFbx: 	Total Deformer Count 1278879504.
+[2018.06.25-18.19.55:509][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.55:510][502]LogFbx: =================================================
+[2018.06.25-18.19.55:510][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.55:510][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.55:510][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.19.55:510][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.19.55:511][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.19.55:527][502]LogFbx: Parsing AnimStack Take 001
+[2018.06.25-18.19.55:540][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_Anim_Take_001'
+[2018.06.25-18.19.55:540][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_Anim_Take_001'
+[2018.06.25-18.19.55:774][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Standing_Up_Anim_Take_001.Standing_Up_Anim_Take_001
+[2018.06.25-18.19.55:775][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Up_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.19.55:789][502]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.25-18.19.55:808][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_Anim_mixamo_com'
+[2018.06.25-18.19.55:808][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Standing_Up_Anim_mixamo_com'
+[2018.06.25-18.19.57:227][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Standing_Up_Anim_mixamo_com.Standing_Up_Anim_mixamo_com
+[2018.06.25-18.19.57:229][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Standing_Up_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.19.57:246][502]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.25-18.19.57:285][502]LogSkeletalMesh: Building Skeletal Mesh Standing_Up...
+[2018.06.25-18.19.57:301][502]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Game/Character/Animations/Standing_Up.Standing_Up
+[2018.06.25-18.19.57:375][502]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 F:\Downloads\Standing 1H Cast Spell 01.fbx)
+[2018.06.25-18.19.57:384][502]LogFbx: Loading FBX Scene from F:\Downloads\Standing 1H Cast Spell 01.fbx
+[2018.06.25-18.19.57:406][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.19.57:412][502]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2018.06.25-18.19.57:412][502]FBXImport: Error: Import failed. 
+[2018.06.25-18.19.58:919][502]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.19.58:922][502]LogAssetTools: Warning: Failed to import 'F:\Downloads\Standing 1H Cast Spell 01.fbx'. Failed to create asset '/Game/Game/Character/Animations/Standing_1H_Cast_Spell_01'.
+Please see Output Log for details.
+[2018.06.25-18.19.59:294][502]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 F:\Downloads\Dying.fbx)
+[2018.06.25-18.19.59:366][502]LogFbx: Loading FBX Scene from F:\Downloads\Dying.fbx
+[2018.06.25-18.19.59:442][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.19.59:446][502]LogFbx: =================================================
+[2018.06.25-18.19.59:446][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.59:446][502]LogFbx: 	Total Deformer Count 1278876928.
+[2018.06.25-18.19.59:446][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.59:446][502]LogFbx: =================================================
+[2018.06.25-18.19.59:446][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.59:446][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.59:446][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.59:447][502]LogFbx: =================================================
+[2018.06.25-18.19.59:447][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.19.59:447][502]LogFbx: 	Total Deformer Count 1278876872.
+[2018.06.25-18.19.59:447][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.19.59:447][502]LogFbx: =================================================
+[2018.06.25-18.19.59:447][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.19.59:447][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.19.59:447][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.19.59:448][502]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Kachujin : The relative matrices do not match
+[2018.06.25-18.19.59:448][502]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.06.25-18.19.59:449][502]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Kachujin
+[2018.06.25-18.19.59:449][502]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.06.25-18.19.59:450][502]LogMaterial: Warning: Material /Game/Game/Character/Animations/kachujin_MAT1.kachujin_MAT1 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.25-18.19.59:455][502]LogMaterial: Missing cached shader map for material kachujin_MAT1, compiling. 
+[2018.06.25-18.19.59:481][502]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.25-18.19.59:481][502]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.25-18.19.59:481][502]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.25-18.19.59:793][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.20.04:872][502]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.25-18.20.04:872][502]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.25-18.20.04:872][502]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-18.20.05:106][502]LogTexture: Display: Building textures: Kachujin_specular (AutoDXT, 2048X2048)
+[2018.06.25-18.20.06:088][502]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for Kachujin_normal
+[2018.06.25-18.20.06:361][502]LogTexture: Display: Building textures: Kachujin_normal (BC5, 2048X2048)
+[2018.06.25-18.20.07:319][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.20.12:458][502]LogMaterial: Missing cached shader map for material kachujin_MAT1, compiling. 
+[2018.06.25-18.20.12:482][502]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.25-18.20.12:482][502]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.25-18.20.12:482][502]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.25-18.20.12:482][502]LogFbx: Triangulating skeletal mesh Kachujin
+[2018.06.25-18.20.12:673][502]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.25-18.20.12:910][502]LogSkeletalMesh: Section 0: 7665 vertices, 53 active bones
+[2018.06.25-18.20.12:962][502]LogSkeletalMesh: Section 0: Material=0, 12610 triangles
+[2018.06.25-18.20.12:965][502]LogSkeletalMesh: Building Skeletal Mesh Dying...
+[2018.06.25-18.20.12:980][502]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Game/Character/Animations/Dying.Dying
+[2018.06.25-18.20.12:989][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_PhysicsAsset'
+[2018.06.25-18.20.12:989][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_PhysicsAsset'
+[2018.06.25-18.20.12:994][502]LogFbx: =================================================
+[2018.06.25-18.20.12:994][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.12:994][502]LogFbx: 	Total Deformer Count 1724393848.
+[2018.06.25-18.20.12:994][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.12:994][502]LogFbx: =================================================
+[2018.06.25-18.20.12:994][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.12:994][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.12:994][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.12:996][502]LogFbx: =================================================
+[2018.06.25-18.20.12:996][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.12:996][502]LogFbx: 	Total Deformer Count 1724393792.
+[2018.06.25-18.20.12:996][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.12:996][502]LogFbx: =================================================
+[2018.06.25-18.20.12:996][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.12:996][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.12:996][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.20.12:996][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.20.12:997][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.20.12:998][502]LogFbx: Parsing AnimStack Take 001
+[2018.06.25-18.20.12:998][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_Anim_Take_001'
+[2018.06.25-18.20.12:998][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_Anim_Take_001'
+[2018.06.25-18.20.13:267][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Dying_Anim_Take_001.Dying_Anim_Take_001
+[2018.06.25-18.20.13:267][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Dying_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.13:268][502]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.25-18.20.13:272][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_Anim_mixamo_com'
+[2018.06.25-18.20.13:273][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Dying_Anim_mixamo_com'
+[2018.06.25-18.20.14:070][502]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.25-18.20.14:760][502]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.25-18.20.15:027][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Dying_Anim_mixamo_com.Dying_Anim_mixamo_com
+[2018.06.25-18.20.15:028][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Dying_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.15:041][502]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.25-18.20.15:044][502]LogSkeletalMesh: Building Skeletal Mesh Dying...
+[2018.06.25-18.20.15:059][502]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Game/Character/Animations/Dying.Dying
+[2018.06.25-18.20.15:782][502]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.25-18.20.15:947][502]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.25-18.20.17:268][502]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.25-18.20.17:268][502]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 F:\Downloads\Praying.fbx)
+[2018.06.25-18.20.17:922][502]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-18.20.17:922][502]LogFbx: Loading FBX Scene from F:\Downloads\Praying.fbx
+[2018.06.25-18.20.17:992][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.20.17:996][502]LogFbx: =================================================
+[2018.06.25-18.20.17:996][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.17:996][502]LogFbx: 	Total Deformer Count 1724393456.
+[2018.06.25-18.20.17:996][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.17:996][502]LogFbx: =================================================
+[2018.06.25-18.20.17:996][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.17:996][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.17:996][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.17:998][502]LogFbx: =================================================
+[2018.06.25-18.20.17:998][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.17:998][502]LogFbx: 	Total Deformer Count 1724393400.
+[2018.06.25-18.20.17:998][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.17:998][502]LogFbx: =================================================
+[2018.06.25-18.20.17:998][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.17:998][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.17:998][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.17:998][502]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Kachujin : The relative matrices do not match
+[2018.06.25-18.20.17:998][502]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2018.06.25-18.20.17:999][502]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Kachujin
+[2018.06.25-18.20.17:999][502]LogFbx: Warning: Recreating bind pose succeeded.
+[2018.06.25-18.20.18:001][502]LogMaterial: Warning: Material /Game/Game/Character/Animations/kachujin_MAT2.kachujin_MAT2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.06.25-18.20.18:060][502]LogMaterial: Missing cached shader map for material kachujin_MAT2, compiling. 
+[2018.06.25-18.20.18:078][502]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.06.25-18.20.18:490][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.20.23:626][502]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.25-18.20.23:626][502]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.25-18.20.23:626][502]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.25-18.20.23:626][502]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.25-18.20.23:626][502]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.25-18.20.23:862][502]LogTexture: Display: Building textures: Kachujin_specular (AutoDXT, 2048X2048)
+[2018.06.25-18.20.24:816][502]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for Kachujin_normal
+[2018.06.25-18.20.25:079][502]LogTexture: Display: Building textures: Kachujin_normal (BC5, 2048X2048)
+[2018.06.25-18.20.26:021][502]LogTexture: Display: Building textures: Kachujin_diffuse (AutoDXT, 2048X2048)
+[2018.06.25-18.20.31:084][502]LogMaterial: Missing cached shader map for material kachujin_MAT2, compiling. 
+[2018.06.25-18.20.31:108][502]LogFbx: Triangulating skeletal mesh Kachujin
+[2018.06.25-18.20.31:306][502]LogShaderCompilers: Display: Shaders left to compile 87
+[2018.06.25-18.20.31:306][502]LogShaderCompilers: Display: Shaders left to compile 77
+[2018.06.25-18.20.31:306][502]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.06.25-18.20.31:306][502]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2018.06.25-18.20.32:292][502]LogSkeletalMesh: Section 0: 7665 vertices, 53 active bones
+[2018.06.25-18.20.32:347][502]LogSkeletalMesh: Section 0: Material=0, 12610 triangles
+[2018.06.25-18.20.32:353][502]LogSkeletalMesh: Building Skeletal Mesh Praying...
+[2018.06.25-18.20.32:369][502]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Game/Character/Animations/Praying.Praying
+[2018.06.25-18.20.32:411][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_PhysicsAsset'
+[2018.06.25-18.20.32:411][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_PhysicsAsset'
+[2018.06.25-18.20.32:416][502]LogFbx: =================================================
+[2018.06.25-18.20.32:416][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.32:416][502]LogFbx: 	Total Deformer Count -2060684576.
+[2018.06.25-18.20.32:416][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.32:416][502]LogFbx: =================================================
+[2018.06.25-18.20.32:416][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.32:416][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.32:416][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.32:417][502]LogFbx: =================================================
+[2018.06.25-18.20.32:417][502]LogFbx: Dumping Node START [Kachujin] 
+[2018.06.25-18.20.32:417][502]LogFbx: 	Total Deformer Count -2060684296.
+[2018.06.25-18.20.32:417][502]LogFbx: 		[Node 1] Skin Kachujin (Type Skin).
+[2018.06.25-18.20.32:417][502]LogFbx: =================================================
+[2018.06.25-18.20.32:417][502]LogFbx: 	Attribute (Kachujin) Type (4).
+[2018.06.25-18.20.32:417][502]LogFbx: 		[Node Attribute Child 1] Kachujin (Type Mesh).
+[2018.06.25-18.20.32:417][502]LogFbx: Dumping Node END [Kachujin]
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.20.32:417][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(0) Hips
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(1) Spine
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(2) Spine1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(3) Spine2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(4) Neck
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(5) Head
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(6) HeadTop_End
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(7) LeftShoulder
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(8) LeftArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(9) LeftForeArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(10) LeftHand
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(23) LeftHandRing1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(24) LeftHandRing2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(25) LeftHandRing3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(26) LeftHandRing4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(31) RightShoulder
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(32) RightArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(33) RightForeArm
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(34) RightHand
+[2018.06.25-18.20.32:418][502]LogFbx: SortedLinks :(35) RightHandIndex1
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(36) RightHandIndex2
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(37) RightHandIndex3
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(38) RightHandIndex4
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(39) RightHandThumb1
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(40) RightHandThumb2
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(41) RightHandThumb3
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(42) RightHandThumb4
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(47) RightHandRing1
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(48) RightHandRing2
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(49) RightHandRing3
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(50) RightHandRing4
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(51) RightHandPinky1
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(52) RightHandPinky2
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(53) RightHandPinky3
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(54) RightHandPinky4
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(55) LeftUpLeg
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(56) LeftLeg
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(57) LeftFoot
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(58) LeftToeBase
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(59) LeftToe_End
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(60) RightUpLeg
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(61) RightLeg
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(62) RightFoot
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(63) RightToeBase
+[2018.06.25-18.20.32:419][502]LogFbx: SortedLinks :(64) RightToe_End
+[2018.06.25-18.20.32:420][502]LogFbx: Parsing AnimStack Take 001
+[2018.06.25-18.20.32:420][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_Anim_Take_001'
+[2018.06.25-18.20.32:420][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_Anim_Take_001'
+[2018.06.25-18.20.32:666][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Praying_Anim_Take_001.Praying_Anim_Take_001
+[2018.06.25-18.20.32:666][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Praying_Anim_Take_001) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.32:668][502]LogFbx: Parsing AnimStack mixamo.com
+[2018.06.25-18.20.32:670][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_Anim_mixamo_com'
+[2018.06.25-18.20.32:670][502]LogLinker: Can't find file '/Game/Game/Character/Animations/Praying_Anim_mixamo_com'
+[2018.06.25-18.20.32:898][502]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.25-18.20.32:898][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Game/Character/Animations/Praying_Anim_mixamo_com.Praying_Anim_mixamo_com
+[2018.06.25-18.20.32:898][502]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.Praying_Anim_mixamo_com) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.32:906][502]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.06.25-18.20.32:917][502]LogSkeletalMesh: Building Skeletal Mesh Praying...
+[2018.06.25-18.20.32:932][502]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Game/Character/Animations/Praying.Praying
+[2018.06.25-18.20.33:426][502]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.25-18.20.34:070][502]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.25-18.20.34:072][502]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 F:\Downloads\Quick Roll To Run.fbx)
+[2018.06.25-18.20.34:082][502]LogFbx: Loading FBX Scene from F:\Downloads\Quick Roll To Run.fbx
+[2018.06.25-18.20.34:103][502]LogFbx: FBX Scene Loaded Succesfully
+[2018.06.25-18.20.34:110][502]FBXImport: Error: Failed to find any bone hierarchy. Try disabling the "Import As Skeletal" option to import as a rigid mesh.  
+[2018.06.25-18.20.34:110][502]FBXImport: Error: Import failed. 
+[2018.06.25-18.20.34:606][502]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.25-18.20.36:275][502]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.25-18.20.36:382][502]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.25-18.20.37:678][502]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.20.37:681][502]LogAssetTools: Warning: Failed to import 'F:\Downloads\Quick Roll To Run.fbx'. Failed to create asset '/Game/Game/Character/Animations/Quick_Roll_To_Run'.
+Please see Output Log for details.
+[2018.06.25-18.20.40:131][504]LogSlate: Window 'Message' being destroyed
+[2018.06.25-18.20.40:135][504]LoadErrors: Error: The Skeleton  UE4_Mannequin_Skeleton is missing bones that SkeletalMesh  SK_Mannequin needs. They will be added now. Please save the Skeleton!
+[2018.06.25-18.20.42:013][714]LogSlate: Window 'Message Log' being destroyed
+[2018.06.25-18.20.42:016][714]LogSlate: Window 'Message Log' being destroyed
+[2018.06.25-18.20.50:979][643]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.25-18.20.51:017][643]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.25-18.20.51:017][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.25-18.20.51:040][643]PIE: New page: PIE session: ThirdPersonExampleMap (25.06.2018 22:20:51)
+[2018.06.25-18.20.51:040][643]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.06.25-18.20.51:088][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048596s)
+[2018.06.25-18.20.51:089][643]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.25-18.20.51:089][643]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.06.25-18.20.51:089][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.049732s)
+[2018.06.25-18.20.51:113][643]LogInit: XAudio2 using 'Lautsprecher (Razer Surround Audio Controller)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2018.06.25-18.20.51:118][643]LogInit: FAudioDevice initialized.
+[2018.06.25-18.20.51:236][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000085388280, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.25-18.20.51:259][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000085388280, Size=64
+[2018.06.25-18.20.51:259][643]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000631f4ac0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.25-18.20.51:276][643]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000385c6e80, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.25-18.20.51:323][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000063272a00, Size=488, Default__Master_Skill_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:328][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000085364400, Size=768, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.25-18.20.51:333][643]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000362cb250, Size=16, Default__W_StatusBar_C Function /Game/Game/Wigets/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.25-18.20.51:336][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000037cf3cd0, Size=4, Default__W_Main_Wiget_C Function /Game/Game/Wigets/W_Main_Wiget.W_Main_Wiget_C:ExecuteUbergraph_W_Main_Wiget
+[2018.06.25-18.20.51:338][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000085b31700, Size=248, Default__W_SkillHotkey_C Function /Game/Game/Wigets/W_SkillHotkey.W_SkillHotkey_C:ExecuteUbergraph_W_SkillHotkey
+[2018.06.25-18.20.51:370][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a53a00, Size=488, Default__ArcaneSight_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:372][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a53800, Size=488, Default__ArcaneSight_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:380][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a53200, Size=488, Default__FlameNova_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:497][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000063272a00, Size=488
+[2018.06.25-18.20.51:497][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a51000, Size=488, Default__Master_Skill_C Function /Engine/Transient.REINST_Master_Skill_C_9:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:497][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000050a53800, Size=488
+[2018.06.25-18.20.51:497][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a53800, Size=488, Default__ArcaneSight_C Function /Engine/Transient.REINST_Master_Skill_C_9:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:498][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000050a53200, Size=488
+[2018.06.25-18.20.51:498][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000050a53200, Size=488, Default__FlameNova_C Function /Engine/Transient.REINST_Master_Skill_C_9:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:499][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000085364400, Size=768
+[2018.06.25-18.20.51:499][643]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000580ee200, Size=768, Default__Main_Character_C Function /Engine/Transient.REINST_Main_Character_C_12:ExecuteUbergraph_Main_Character
+[2018.06.25-18.20.51:499][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000037cf3cd0, Size=4
+[2018.06.25-18.20.51:500][643]LogUObjectGlobals: Created PersistentFrame Addr=0x00000000574f8320, Size=4, Default__W_Main_Wiget_C Function /Engine/Transient.REINST_W_Main_Wiget_C_1:ExecuteUbergraph_W_Main_Wiget
+[2018.06.25-18.20.51:500][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000085b31700, Size=248
+[2018.06.25-18.20.51:500][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000044fd1000, Size=248, Default__W_SkillHotkey_C Function /Engine/Transient.REINST_W_SkillHotkey_C_2:ExecuteUbergraph_W_SkillHotkey
+[2018.06.25-18.20.51:500][643]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000362cb250, Size=16
+[2018.06.25-18.20.51:500][643]LogUObjectGlobals: Created PersistentFrame Addr=0x000000003114d380, Size=16, Default__W_StatusBar_C Function /Engine/Transient.REINST_W_StatusBar_C_3:ExecuteUbergraph_W_StatusBar
+[2018.06.25-18.20.51:564][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000097bc9000, Size=480, Default__Master_Skill_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:565][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000097bc8a00, Size=480, Default__ArcaneSight_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:565][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000097bc8800, Size=480, Default__FlameNova_C Function /Game/Game/Blueprints/Skills/Master_Skill.Master_Skill_C:ExecuteUbergraph_Master_Skill
+[2018.06.25-18.20.51:573][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000078ee7a00, Size=768, Default__Main_Character_C Function /Game/Game/Character/Main_Character.Main_Character_C:ExecuteUbergraph_Main_Character
+[2018.06.25-18.20.51:578][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000015f4f260, Size=4, Default__W_Main_Wiget_C Function /Game/Game/Wigets/W_Main_Wiget.W_Main_Wiget_C:ExecuteUbergraph_W_Main_Wiget
+[2018.06.25-18.20.51:580][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000097a66a00, Size=248, Default__W_SkillHotkey_C Function /Game/Game/Wigets/W_SkillHotkey.W_SkillHotkey_C:ExecuteUbergraph_W_SkillHotkey
+[2018.06.25-18.20.51:581][643]LogUObjectGlobals: Created PersistentFrame Addr=0x0000000037c90fe0, Size=16, Default__W_StatusBar_C Function /Game/Game/Wigets/W_StatusBar.W_StatusBar_C:ExecuteUbergraph_W_StatusBar
+[2018.06.25-18.20.51:646][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2018.06.25-18.20.51:646][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:648][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2018.06.25-18.20.51:648][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:649][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2018.06.25-18.20.51:649][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:758][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.06.25-18.20.51:758][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_4) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:759][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.06.25-18.20.51:759][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:761][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.06.25-18.20.51:761][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_5) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:762][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2018.06.25-18.20.51:762][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:764][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2018.06.25-18.20.51:764][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:765][643]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2018.06.25-18.20.51:765][643]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.25-18.20.51:816][643]LogLoad: Game class is 'Game_Gamemode_C'
+[2018.06.25-18.20.51:857][643]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.06.25-20.20.51
+[2018.06.25-18.20.51:857][643]LogWorld: Bringing up level for play took: 0.000952
+[2018.06.25-18.20.51:930][643]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.06.25-18.20.52:003][643]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,376
+[2018.06.25-18.20.52:003][643]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.25-18.20.52:044][643]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.06.25-18.20.55:945][102]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.25-18.20.55:958][102]LogSlate: Window 'Steampunk_Game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.25-18.20.55:989][102]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.06.25-18.20.56:005][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000631f4ac0, Size=64
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000050a51000, Size=488
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000580ee200, Size=768
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000000003114d380, Size=16
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000574f8320, Size=4
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000044fd1000, Size=248
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000050a53800, Size=488
+[2018.06.25-18.20.56:009][102]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000050a53200, Size=488
+[2018.06.25-18.21.00:036][431]LogSlate: Window 'Save Content' being destroyed
+[2018.06.25-18.21.00:105][431]LogSlate: Window 'Steampunk_Game - Unreal Editor' being destroyed
+[2018.06.25-18.21.00:311][432]Cmd: QUIT_EDITOR
+[2018.06.25-18.21.00:439][432]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.25-18.21.00:449][432]LogExit: Preparing to exit.
+[2018.06.25-18.21.01:304][432]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.25-18.21.01:318][432]LogExit: Editor shut down
+[2018.06.25-18.21.01:322][432]LogExit: Transaction tracking system shut down
+[2018.06.25-18.21.01:323][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000000385c6e80, Size=72
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000097bc9000, Size=480
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000097bc8a00, Size=480
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000097bc8800, Size=480
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000078ee7a00, Size=768
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000015f4f260, Size=4
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000097a66a00, Size=248
+[2018.06.25-18.21.01:324][432]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000000037c90fe0, Size=16
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/' was aborted.
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.25-18.21.01:462][432]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.25-18.21.01:463][432]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.25-18.21.01:463][432]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.25-18.21.01:940][432]LogExit: Object subsystem successfully closed.
+[2018.06.25-18.21.01:993][432]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.25-18.21.01:997][432]LogD3D11RHI: Shutdown
+[2018.06.25-18.21.01:997][432]LogD3D11RHI: CleanupD3DDevice
+[2018.06.25-18.21.02:003][432]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.25-18.21.02:255][432]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.06.25-18.21.02:255][432]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.25-18.21.02:255][432]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.25-18.21.02:267][432]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.25-18.21.02:276][432]LogDirectoryWatcher: A directory notification for 'F:/Unreal Engine/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.25-18.21.02:277][432]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Collections/' was aborted.
+[2018.06.25-18.21.02:277][432]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Content/Developers/Leonard/Collections/' was aborted.
+[2018.06.25-18.21.02:277][432]LogDirectoryWatcher: A directory notification for 'F:/Unreal Projekt/Steampunk_Game/Engine_Test/Steampunk_Game/Saved/Collections/' was aborted.
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.25-18.21.02:277][432]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.25-18.21.02:288][432]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.25-18.21.02:289][432]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.25-18.21.02:289][432]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.25-18.21.02:289][432]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.25-18.21.02:289][432]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.25-18.21.02:289][432]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.25-18.21.02:302][432]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.25-18.21.02:302][432]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.25-18.21.02:350][432]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.25-18.21.02:350][432]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.25-18.21.02:350][432]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.25-18.21.02:362][432]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.25-18.21.02:369][432]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.25-18.21.02:397][432]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.25-18.21.02:397][432]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.25-18.21.02:397][432]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.25-18.21.02:420][432]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.25-18.21.02:421][432]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.25-18.21.02:421][432]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.25-18.21.02:421][432]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.25-18.21.02:894][432]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.25-18.21.02:894][432]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.25-18.21.02:894][432]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.25-18.21.02:894][432]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.25-18.21.02:894][432]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.25-18.21.02:904][432]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.25-18.21.02:915][432]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.25-18.21.02:915][432]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.25-18.21.02:915][432]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.25-18.21.02:916][432]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.25-18.21.02:922][432]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.25-18.21.02:935][432]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.25-18.21.02:935][432]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.25-18.21.02:942][432]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.25-18.21.02:942][432]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.25-18.21.02:982][432]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.25-18.21.02:982][432]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.25-18.21.02:995][432]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.25-18.21.03:006][432]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.25-18.21.03:006][432]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.25-18.21.03:006][432]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.25-18.21.03:007][432]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.25-18.21.03:019][432]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.25-18.21.03:019][432]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.25-18.21.03:019][432]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.25-18.21.03:020][432]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.25-18.21.03:034][432]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.25-18.21.03:034][432]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.25-18.21.03:034][432]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.25-18.21.03:042][432]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.25-18.21.03:042][432]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.25-18.21.03:050][432]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.25-18.21.03:057][432]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.25-18.21.03:057][432]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.25-18.21.03:066][432]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.25-18.21.03:132][432]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.25-18.21.03:138][432]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.25-18.21.03:138][432]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.25-18.21.03:138][432]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.25-18.21.03:138][432]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.25-18.21.03:140][432]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.25-18.21.03:140][432]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.25-18.21.03:141][432]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.25-18.21.03:147][432]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.25-18.21.03:154][432]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.25-18.21.03:254][432]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.25-18.21.03:354][432]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.25-18.21.03:354][432]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.25-18.21.03:354][432]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.25-18.21.03:354][432]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.25-18.21.03:368][432]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.25-18.21.03:384][432]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.25-18.21.03:384][432]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.25-18.21.03:384][432]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.25-18.21.03:384][432]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.25-18.21.03:385][432]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.25-18.21.03:385][432]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.25-18.21.03:385][432]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.25-18.21.03:385][432]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.25-18.21.03:385][432]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.25-18.21.03:386][432]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.25-18.21.04:154][432]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.25-18.21.04:154][432]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.25-18.21.04:154][432]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.25-18.21.04:175][432]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.25-18.21.04:181][432]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.25-18.21.04:181][432]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.25-18.21.04:181][432]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.25-18.21.04:191][432]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.25-18.21.04:202][432]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.25-18.21.04:202][432]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.25-18.21.04:202][432]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.25-18.21.04:202][432]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.25-18.21.04:202][432]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.25-18.21.04:211][432]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.25-18.21.04:224][432]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.25-18.21.04:224][432]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.25-18.21.04:253][432]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.25-18.21.04:253][432]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.25-18.21.04:255][432]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.25-18.21.04:256][432]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.25-18.21.04:261][432]LogDerivedDataCache: Shutdown
+[2018.06.25-18.21.04:261][432]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.25-18.21.04:261][432]LogXGEController: Cleaning working directory: C:/Users/Leonard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.25-18.21.04:261][432]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.25-18.21.04:261][432]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.25-18.21.04:261][432]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.25-18.21.04:266][432]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.25-18.21.04:275][432]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.25-18.21.04:275][432]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.25-18.21.04:280][432]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.25-18.21.04:281][432]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.25-18.21.04:284][432]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.25-18.21.04:284][432]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.25-18.21.04:284][432]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.25-18.21.04:284][432]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B565110E0-4866-B865-8DC1-CD9073234BDA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=6cc6a6264c79a9e9a1a507950e1b09dd%7C3f8d87c4e20c4ab78b8aa71926b9badb%7C96f06219-4088-4904-a37b-5e236bca6233&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.25-18.21.04:312][432]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.25-18.21.04:312][432]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.25-18.21.04:312][432]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.25-18.21.04:322][432]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.25-18.21.04:329][432]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.25-18.21.04:329][432]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.25-18.21.04:329][432]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.25-18.21.04:329][432]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.25-18.21.04:345][432]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.25-18.21.04:354][432]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.25-18.21.04:371][432]LogExit: Exiting.
+[2018.06.25-18.21.04:381][432]Log file closed, 06/25/18 20:21:04
